@@ -1,0 +1,564 @@
+{
+ "tarih": "20261030",
+ "sayi": "33415",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Avrasya Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "saglik-ilac",
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Avrasya Üniversitesinde Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi kuruldu, amaçları ve yönetimi belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Merkezin amaç, faaliyet alanı ve yönetim esasları yönetmelikle düzenlendi.",
+      "dayanak": "Bu Yönetmeliğin amacı, Avrasya Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez hasta haklarına saygılı, koruyucu, teşhis ve tedavi hizmeti sunacak.",
+      "dayanak": "Modern altyapı ile ihtiyaç ve talepleri karşılayan, kaliteli, hasta haklarına saygılı, koruyucu, teşhis ve tedavi hizmetlerini sunmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ön lisans, lisans ve lisansüstü öğrencilerine eğitimle ilgili yardımcı hizmetler için düzenleme yapılacak.",
+      "dayanak": "Ağız ve diş sağlığı alanında ön lisans, lisans ve lisansüstü eğitim ve öğretime devam eden öğrencilere eğitimleriyle ilgili yardımcı hizmetleri sunmak üzere gerekli düzenlemeleri yapmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkezin yönetim organları Müdür, Yönetim Kurulu ve Danışma Kurulu oldu.",
+      "dayanak": "Merkezin yönetim organları şunlardır: a) Müdür. b) Yönetim Kurulu. c) Danışma Kurulu.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilecek.",
+      "dayanak": "Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu, görevlendirilen dört üye ile birlikte toplam yedi üyeden oluşacak.",
+      "dayanak": "Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıllık süre için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Avrasya Üniversitesi öğrencileri, öğretim üyeleri ve merkezden hizmet alanlar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Avrasya Üniversitesi Fizyoterapi ve Rehabilitasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Avrasya Üniversitesinde fizyoterapi araştırma merkezi kuruldu, amaçları ve yönetimi belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Merkezin amaçlarına, faaliyetlerine ve yönetimine ilişkin kurallar düzenlendi.",
+      "dayanak": "Bu Yönetmeliğin amacı; Avrasya Üniversitesi Fizyoterapi ve Rehabilitasyon Uygulama ve Araştırma Merkezinin amaçlarına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez, fizyoterapi öğrencileri ve öğretim elemanlarına eğitim ve bilimsel çalışma ortamı hazırlayacak.",
+      "dayanak": "Üniversitenin Fizyoterapi ve Rehabilitasyon Bölümü ve ilgili alanlarda öğrenim görmekte olan ön lisans, lisans ve lisansüstü öğrencileri",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez öğrencilere ve öğretim elemanlarına eğitim, uygulama ve araştırma ortamı sunacak.",
+      "dayanak": "Fizyoterapi ön lisans, fizyoterapi ve rehabilitasyon lisans ve lisansüstü öğrencilerine ve öğretim elemanlarına eğitim, uygulama ve araştırma ortamı sunmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez Müdür ve Yönetim Kurulu tarafından yönetilecek.",
+      "dayanak": "Merkezin yönetim organları şunlardır: a) Müdür. b) Yönetim Kurulu.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, Rektör tarafından tam zamanlı öğretim elemanları arasından üç yıllığına görevlendirilecek.",
+      "dayanak": "Müdür, fizyoterapi ve rehabilitasyon alanında çalışmaları bulunan Üniversitede tam zamanlı öğretim elemanları arasından Rektör tarafından üç yıllık süre için görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkezin harcama yetkilisi Mütevelli Heyet Başkanı olacak.",
+      "dayanak": "Merkezin harcama yetkilisi Mütevelli Heyet Başkanıdır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Avrasya Üniversitesi öğrencileri, öğretim elemanları ve merkez personeli",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "TEBLİĞ",
+   "baslik": "Yapı Sahipleri ile Yapı Denetimi Hizmet Sözleşmesi İmzalayacak Yapı Denetim Kuruluşlarının Elektronik Ortamda Belirlenmesine İlişkin Usul ve Esaslara Dair Tebliğde Değişiklik Yapılması Hakkında Tebliğ",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "imar-kamulastirma"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Antalya, Kocaeli ve Balıkesir'de yapı denetim görev bölgeleri yeniden tanımlandı ve istemeyene bölge dışı görev verilmemesi düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Antalya, belirtilen ilçelerle 1. bölge A kısmı, 1. bölge B kısmı ve 2. bölge olmak üzere iki bölge olarak sayıldı.",
+      "dayanak": "Antalya ili, yapı denetim kuruluşlarının görevlendirilmeleri bakımından Kaş, Demre, Finike, Elmalı, Kumluca, Kemer ve Korkuteli ilçelerinden oluşan 1 inci bölge A kısmı",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Antalya'da merkezinin bulunduğu bölge veya kısım dışında görev almak istemeyip Bakanlığa dilekçeyle başvuran kuruluşa, sayılan durumlar hariç başka bölge veya kısımdan görev verilmeyecek.",
+      "dayanak": "Bakanlığa dilekçe ile başvuran yapı denetim kuruluşlarına yedinci ve sekizinci fıkralardaki durumlar hariç diğer bölge veya diğer bölgedeki kısım veya kısımlardan görevlendirme yapılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu başvurular Bakanlıkça en geç 7 iş günü içinde sonuçlandırılacak.",
+      "dayanak": "Başvurular, Bakanlıkça en geç 7 iş günü içerisinde sonuçlandırılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kocaeli, belirtilen ilçelerle 1. ve 2. bölge olmak üzere iki bölge olarak sayıldı.",
+      "dayanak": "Kocaeli ili, Başiskele, Derince, Gölcük, İzmit, Kandıra, Karamürsel ve Kartepe ilçelerinden oluşan 1 inci bölge ve Çayırova, Darıca, Dilovası, Gebze ve Körfez ilçelerinden oluşan 2 nci bölge olmak üzere iki bölge olarak,",
+      "alinti_benzerlik": 0.978,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Balıkesir, belirtilen ilçelerle 1., 2. ve 3. bölge olmak üzere üç bölge olarak sayıldı.",
+      "dayanak": "Bandırma, Erdek, Gönen, Manyas ve Marmara ilçelerinden oluşan 3 üncü bölge olmak üzere üç bölge olarak,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kocaeli ve Balıkesir'de merkezinin bulunduğu bölge dışında görev almak istemeyip Bakanlığa dilekçeyle başvuran kuruluşa, sayılan durumlar hariç başka bölgeden görev verilmeyecek.",
+      "dayanak": "bölgelerde görev almak istemeyen ve Bakanlığa dilekçe ile başvuran yapı denetim kuruluşlarına yedinci ve sekizinci fıkralardaki durumlar hariç diğer bölge veya bölgelerden görevlendirme yapılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Antalya, Kocaeli ve Balıkesir'de görev yapan yapı denetim kuruluşları ve yapı sahipleri",
+    "yururluk": "Bu Tebliğ yayımı tarihinden bir ay sonra yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tebliğ yayımı tarihinden bir ay sonra yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/32883 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 6,
+    "okunan": 6
+   },
+   "ozet": {
+    "konular": [
+     "sgk-calisma",
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Sigorta davasında emsal karar iddiası karşılanmadığı için gerekçeli karar hakkı ihlal edildi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvurucunun gerekçeli karar hakkına dayanan şikayeti kabul edilebilir bulundu.",
+      "dayanak": "Gerekçeli karar hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Adil yargılanma hakkı kapsamındaki gerekçeli karar hakkının ihlal edildiğine karar verildi.",
+      "dayanak": "Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkı kapsamındaki gerekçeli karar hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "İhlalin giderilmesi için yeniden yargılama yapılmak üzere karar Kırklareli İş Mahkemesine gönderildi.",
+      "dayanak": "Kararın bir örneğinin gerekçeli karar hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Kırklareli İş Mahkemesine (E.2020/74, K.2020/80) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya harç ve vekalet ücreti toplamı yargılama gideri ödenmesine karar verildi.",
+      "dayanak": "487,60 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.487,60 TL yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Kadriye Şendir",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2021/22795 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 13,
+    "okunan": 13
+   },
+   "ozet": {
+    "konular": [
+     "vergi",
+     "hukuk-yargi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Mahkeme, haksız verginin faizsiz iadesini mülkiyet ihlali sayıp yeniden yargılamaya karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Haksız tahsil edilen verginin faiz ödenmeden iade edilmesi mülkiyet hakkı ihlali sayıldı.",
+      "dayanak": "B. Anayasa'nın 35. maddesinde güvence altına alınan mülkiyet hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "İhlalin giderilmesi için yeniden yargılama yapılmasına karar verildi.",
+      "dayanak": "yeniden yargılama yapılmak üzere İstanbul Bölge İdare Mahkemesi 1. Vergi Dava Dairesine (E.2020/2080, K.2020/2164) iletilmek üzere İstanbul 9. Vergi Mahkemesine (E.2019/2565, K.2020/1195) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya harç ve vekalet ücretinden oluşan yargılama gideri ödenecek.",
+      "dayanak": "D. 487,60 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.487,60 TL yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya 166.219,08 TL gelir vergisi iadesi yapıldığı belirtildi.",
+      "dayanak": "başvurucuya 166.219,08 TL tutarında gelir vergisi iadesi yapılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "İkale sözleşmesiyle işten ayrılan başvurucu",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/22462 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 7,
+    "okunan": 7
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Anayasa Mahkemesi davanın süre aşımından reddedilmesini mahkemeye erişim hakkı ihlali saydı ve yeniden yargılamaya karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Tapu tahsis belgesi davasının süre aşımından reddedilmesi mahkemeye erişim hakkı ihlali sayıldı.",
+      "dayanak": "Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkı kapsamındaki mahkemeye erişim hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İhlalin giderilmesi için kararın yeniden yargılama yapılmak üzere Manisa 1. İdare Mahkemesine gönderilmesine karar verildi.",
+      "dayanak": "Kararın bir örneğinin mahkemeye erişim hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Manisa 1. İdare Mahkemesine (E.2020/909, K.2021/3) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuların tazminat talebi reddedildi.",
+      "dayanak": "Başvurucuların tazminat talebinin REDDİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Devletin başvuruculara toplam 40.487,60 TL yargılama gideri ödemesine karar verildi.",
+      "dayanak": "487,60 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.487,60 TL yargılama giderinin başvuruculara MÜŞTEREKEN ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Gülşen Dülgar, Şahver Tam ve Şengül Çıtırkı",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2020/7753 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-7.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 5,
+    "okunan": 5
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi",
+     "sgk-calisma"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Anayasa Mahkemesi ByLock gerekçesiyle işten çıkarılan başvurucunun özel hayata saygı hakkının ihlal edilmediğine oybirliğiyle karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvuru, güven ilişkisi bozulduğu için iş sözleşmesinin feshedilmesi nedeniyle özel hayata saygı hakkının ihlal edildiği iddiası hakkındadır.",
+      "dayanak": "işveren ile arasındaki güven ilişkisinin bozulduğu gerekçesiyle kişinin iş sözleşmesinin feshedilmesi nedeniyle özel hayata saygı hakkının ihlal edildiği iddiasına ilişkindir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucu TGS Yer Hizmetleri'nde hareket koordinasyon müdürü olarak çalışırken 13/6/2017'de iş sözleşmesi feshedildi.",
+      "dayanak": "Başvurucu 10/7/2012 tarihinden itibaren TGS Yer Hizmetleri A.Ş. (işveren) bünyesinde hareket koordinasyon müdürü olarak çalışmaktayken işveren tarafından 13/6/2017 tarihinde iş sözleşmesi feshedilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İş Mahkemesi 30/1/2018'de davanın reddine karar verdi.",
+      "dayanak": "Mahkeme, işveren ile başvurucu arasındaki iş ilişkisinin çekilmez hâle geldiği gerekçesiyle 30/1/2018 tarihinde davanın reddine karar vermiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bölge Adliye Mahkemesi 26/12/2019'da istinaf başvurusunun esastan reddine kesin olarak karar verdi.",
+      "dayanak": "26/12/2019 tarihinde istinaf başvurusunun esastan reddine kesin olarak karar vermiş",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ceza yargılamasında yeterli delil bulunmadığı gerekçesiyle 12/9/2023'te beraat kararı verildi.",
+      "dayanak": "mahkûmiyetine yeter nitelikte kesin ve yeterli delil bulunmadığı gerekçesiyle 12/9/2023 tarihinde beraat kararı verilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Anayasa Mahkemesi özel hayata saygı hakkının ihlal edilmediğine karar verdi.",
+      "dayanak": "Anayasa'nın 20. maddesinde güvence altına alınan özel hayata saygı hakkının İHLAL EDİLMEDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Mehmet Demir",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 8,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2021/1112 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-8.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 7,
+    "okunan": 7
+   },
+   "ozet": {
+    "konular": [
+     "kamu-personeli",
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Eksik maaş davalarının süre aşımından reddedilmesi mahkemeye erişim ihlali sayıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Başvurucular 2002-2014 arası ödenmeyen maaş ve faizleri için 2014'te eski belediyeye karşı ilamsız icra başlattı.",
+      "dayanak": "2002-2014 yılları arasında bazı aylara ilişkin ödenmeyen maaş alacakları ile faiz alacakları toplamının tahsili için 2014 yılında başvurucular mülga Belediye aleyhine ilamsız icra takipleri başlatmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yeni kural olarak idari yargı alanına giren konularda ilamsız takip yapılamayacağı getirildi.",
+      "dayanak": "İdari yargının görev alanına giren konularda ilamsız takip yoluna başvurulamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski ilamsız takiplere düşme kararı verileceği ve kesinleşmeden itibaren otuz gün içinde idari dava açılabileceği düzenlendi.",
+      "dayanak": "Düşme kararının kesinleşmesinden itibaren otuz gün içinde idari yargı mercinde dava açılabilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İdare mahkemeleri açılan davaların kısmen veya tamamen süre aşımı nedeniyle reddine karar verdi.",
+      "dayanak": "davaların kısmen veya tamamen süre aşımı nedeniyle reddine karar vermiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Anayasa Mahkemesi adil yargılanma kapsamındaki mahkemeye erişim hakkının ihlal edildiğine karar verdi.",
+      "dayanak": "Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkı kapsamındaki mahkemeye erişim hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "İhlalin giderilmesi için yeniden yargılama yapılmasına karar verildi.",
+      "dayanak": "Başvuruda tespit edilen anayasal hak ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasında hukuki yarar ve zorunluluk bulunmaktadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Dört başvurucu, Haymana Belediyesi ve davalara bakacak Ankara idare mahkemeleri",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 9,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 16/9/2026 Tarihli ve 2024/68293 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261030-9.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 5,
+    "okunan": 5
+   },
+   "ozet": {
+    "konular": [
+     "egitim",
+     "hukuk-yargi"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "Anayasa Mahkemesi iki öğrenciye verilen okul değiştirme cezalarında eğitim hakkının ihlal edildiğine karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Mahkeme eğitim hakkının ihlal edildiğine karar verdi.",
+      "dayanak": "Anayasa'nın 42. maddesinde güvence altına alınan eğitim hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İhlalin nedeni olarak müdahalenin kanuni dayanağı olmadığı belirtildi.",
+      "dayanak": "Bu itibarla başvurucuların eğitim hakkına yapılan müdahalenin kanuni dayanağı olmadığı sonucuna ulaşılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ayrımcılık yasağı iddiası kabul edilemez bulundu.",
+      "dayanak": "Ayrımcılık yasağının ihlal edildiğine ilişkin iddianın açıkça dayanaktan yoksun olması nedeniyle KABUL EDİLEMEZ OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İhlalin giderilmesi için yeniden yargılama yapılmasına karar verildi.",
+      "dayanak": "Başvuruda tespit edilen anayasal hak ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasında hukuki yarar ve zorunluluk bulunmaktadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Her başvurucuya ayrı ayrı net 50.000 TL manevi tazminat ödenecek.",
+      "dayanak": "Başvuruculara ayrı ayrı net 50.000 TL manevi tazminat ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Harç ve vekalet ücretinden oluşan yargılama gideri başvuruculara ödenecek.",
+      "dayanak": "3.518,70 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 43.518,70 TL yargılama giderinin başvuruculara ayrı ayrı ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Okul değiştirme cezası verilen iki başvurucu öğrenci",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}

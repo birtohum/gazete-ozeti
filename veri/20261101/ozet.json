@@ -1,0 +1,398 @@
+{
+ "tarih": "20261101",
+ "sayi": "33417",
+ "maddeler": [
+  {
+   "no": 6,
+   "bolum": "ATAMA KARARLARI",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/363, 364, 365, 366, 367, 368, 369, 370, 371)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 5,
+    "okunan": 5
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Dokuz Cumhurbaşkanlığı kararıyla birçok üst düzey yönetici atandı ve iki yönetici görevden alındı.",
+    "degisiklikler": [
+     {
+      "ne": "Halit Çağdaş, Şehit Yakınları ve Gaziler Genel Müdür Yardımcılığı görevinden alındı.",
+      "dayanak": "Aile ve Sosyal Hizmetler Bakanlığı Şehit Yakınları ve Gaziler Genel Müdür Yardımcısı Halit ÇAĞDAŞ, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 2 nci maddesi gereğince görevden alınmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Karabük İl Müdürü Abdurrahman Bilgiç Kırşehir'e, Bolu İl Müdürü Cemal Keskin Sakarya'ya, Bartın İl Müdürü Yavuz Korkmaz Bolu'ya atandı.",
+      "dayanak": "– Kırşehir İl Müdürlüğüne, Karabük İl Müdürü Abdurrahman BİLGİÇ, – Sakarya İl Müdürlüğüne, Bolu İl Müdürü Cemal KESKİN, – Bolu İl Müdürlüğüne, Bartın İl Müdürü Yavuz KORKMAZ,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Enerji ve Tabii Kaynaklar Bakanlığı Dış İlişkiler Genel Müdürlüğüne Rahmi Kopar atandı.",
+      "dayanak": "Enerji ve Tabii Kaynaklar Bakanlığı Dış İlişkiler Genel Müdürlüğüne, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 2, 3 ve 4 üncü maddeleri gereğince Rahmi KOPAR atanmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Vergi Denetim Kurulu Başkanı Muhsin Atcı SPK Başkanlığına, Ersin Başar Ekmekci Başkan Vekilliğine, Yasemin Girici üyeliğe atandı.",
+      "dayanak": "Sermaye Piyasası Kurulu; – Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin ATCI, – Başkan Vekilliğine Ersin Başar EKMEKCİ, – Üyeliğine Yasemin GİRİCİ,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Abdulkerim Taşar, Devlet Malzeme Ofisi Genel Müdür Yardımcılığı görevinden alındı.",
+      "dayanak": "Devlet Malzeme Ofisi Genel Müdürlüğü Genel Müdür Yardımcısı Abdulkerim TAŞAR, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 2 nci maddesi gereğince görevden alınmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Milli Savunma Bakanlığı Lojistik Genel Müdür Yardımcısı Muhammed Mahmud Ötegen görevden alındı, yerine Mahmut Güneş Öztürk atandı.",
+      "dayanak": "Milli Savunma Bakanlığı Lojistik Genel Müdür Yardımcısı Muhammed Mahmud ÖTEGEN görevden alınmış ve bu suretle boşalan Lojistik Genel Müdür Yardımcılığına Mahmut Güneş ÖZTÜRK atanmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Atanan, görevden alınan kişiler ve ilgili kamu kurumları.",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİK",
+   "baslik": "Ankara Yıldırım Beyazıt Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Ankara Yıldırım Beyazıt Üniversitesi'nde ders kaydı, sınav, mazeret ve kayıt dondurma kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "Öğrenciler dersler başladıktan sonraki iki hafta içinde danışman onayıyla ders bırakabilir veya yeni ders ekleyebilir.",
+      "dayanak": "Öğrenciler, akademik takvime göre derslerin başladığı haftayı takip eden iki hafta içerisinde danışmanının onayını alarak tekrarlamak zorunda oldukları dersler hariç kaydoldukları dersi bırakabilir veya programlarına yeni ders ekleyebilirler.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Bir yarıyılda alınabilecek en fazla AKTS kredisi, o yarıyılın kredisi ile Senatonun belirlediği ek kredi ve/veya ders toplamıdır.",
+      "dayanak": "(9) Bir yarıyılda öğrencilerin en fazla alabileceği AKTS kredisi; o yarıyıl için belirlenmiş toplam AKTS kredisi ile Senato tarafından belirlenen ilave AKTS kredisi ve/veya ders sayısı toplamı kadardır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bir yarıyıl sınavlar hariç 14 haftadan, bir yıl 28 haftadan kısa olamaz.",
+      "dayanak": "Bir yarıyıl sınavlar hariç 14 hafta (70 iş günü), bir yıl 28 haftadan az olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kopya çektiği anlaşılan öğrenci o dersten başarısız sayılır ve hakkında ilgili kanuna göre işlem yapılır.",
+      "dayanak": "Sınavlarda veya sınav evrakının incelenmesi sırasında kopya çektiği/çektirdiği veya çekilmesine yardım ettiği anlaşılan öğrenci o dersten başarısız sayılır ve hakkında 2547 sayılı Kanunun ilgili hükümlerine göre işlem yapılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mazeret belgesi, mazeret bitiminden itibaren en geç beş iş günü içinde dekanlığa veya müdürlüğe verilmelidir.",
+      "dayanak": "Mazeretin kabulü için kanıtlayıcı belgelerin, mazeretin sona ermesinden itibaren en geç beş iş günü içinde ilgili dekanlığa/müdürlüğe verilmesi gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kayıt dondurma bir defada en fazla iki yarıyıl, öğrenim süresi boyunca toplamda en fazla dört yarıyıl yapılabilir.",
+      "dayanak": "Öğrenciler, bir defada en fazla iki yarıyıl ve öğrenim süresi boyunca toplam en fazla dört yarıyıl kayıt dondurabilirler.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Ankara Yıldırım Beyazıt Üniversitesi ön lisans ve lisans öğrencileri",
+    "yururluk": "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik 2026-2027 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "ANA STATÜLER",
+   "baslik": "Türkiye Buz Hokeyi Federasyonu Ana Statüsü",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Buz Hokeyi Federasyonu'nun teşkilatı, kurulları, genel kurul yapısı ve görevleri düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Federasyon Ankara merkezli, idari ve mali özerkliğe sahip tüzel kişilik olarak tanımlandı.",
+      "dayanak": "Spor Federasyonu, idari ve mali özerkliğe ve tüzel kişiliğe sahiptir. Spor Federasyonunun merkezi Ankara’dadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Genel Kurul delege sayısı 150'den az, 300'den fazla olamaz.",
+      "dayanak": "Genel Kurulun delege sayısı 150’den az ve 300’den fazla olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Erkekler Süper Ligi'ne katılan kulüp ve şirketlere yedişer delege verilir.",
+      "dayanak": "Erkekler Süper Ligine katılan spor kulüpleri ve spor anonim şirketlerine yedişer delege.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Federasyon başkan adayı olmak için genel kurul delegelerinin en az yüzde onunun yazılı desteği gerekir.",
+      "dayanak": "Federasyon başkan adayları yönünden Genel Kurul delegelerinin en az yüzde onunun yazılı desteğine sahip olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu, başkan dahil 11 asıl ve 11 yedek üyeden oluşur.",
+      "dayanak": "Yönetim Kurulu, Genel Kurul tarafından seçilen Federasyon Başkanı dâhil on bir asıl ve on bir yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Disiplin Kurulu, genel kurulca seçilen 5 asıl ve 5 yedek üyeden oluşur.",
+      "dayanak": "Disiplin Kurulu üyeleri, Genel Kurul tarafından seçilen beş asıl ve beş yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Buz hokeyi kulüpleri, sporcular, antrenörler, hakemler ve federasyon organları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "ANA STATÜLER",
+   "baslik": "Türkiye Buz Pateni Federasyonu Ana Statüsü",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Buz Pateni Federasyonu'nun merkezi, organları, genel kurul yapısı ve görevleri belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Federasyon idari ve mali özerkliğe sahip, merkezi Ankara'dadır.",
+      "dayanak": "Spor Federasyonu, idari ve mali özerkliğe ve tüzel kişiliğe sahiptir. Spor Federasyonunun merkezi Ankara’dadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Federasyonun spor dalları artistik buz pateni ve hız patenidir.",
+      "dayanak": "Spor dalı: Tekler, çiftler, buz dansı ve senkronize branşından oluşan artistik buz pateni ile kısa ve uzun mesafe hız pateni branşından oluşan hız pateni spor dallarını,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Genel Kurul delege sayısı en az 150, en fazla 300 olur.",
+      "dayanak": "Genel Kurulun delege sayısı 150’den az ve 300’den fazla olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu başkan dahil 11 asıl ve 11 yedek üyeden oluşur.",
+      "dayanak": "Yönetim Kurulu, Genel Kurul tarafından seçilen Federasyon Başkanı dâhil on bir asıl ve on bir yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başkan adayının delegelerin en az yüzde 10'unun yazılı desteği gerekir.",
+      "dayanak": "Federasyon başkan adayları yönünden Genel Kurul delegelerinin en az yüzde onunun yazılı desteğine sahip olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Disiplin Kurulu genel kurulca seçilen 5 asıl ve 5 yedek üyeden oluşur.",
+      "dayanak": "Disiplin Kurulu üyeleri, Genel Kurul tarafından seçilen beş asıl ve beş yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Buz pateni kulüpleri, sporcular, antrenörler, hakemler ve federasyon organları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "ANA STATÜLER",
+   "baslik": "Türkiye Curling Federasyonu Ana Statüsü",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Türkiye Curling Federasyonu'nun teşkilatı ve kurullarının görevleri düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Ana Statü federasyonun teşkilatını ve kurulların oluşum ve çalışma esaslarını düzenliyor.",
+      "dayanak": "Bu Ana Statünün amacı; Türkiye Curling Federasyonunun teşkilatı, Genel Kurul ile Yönetim, Denetim ve Disiplin Kurullarının oluşumu,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Federasyon idari ve mali özerk, tüzel kişiliğe sahip ve merkezi Ankara'da.",
+      "dayanak": "Spor Federasyonu, idari ve mali özerkliğe ve tüzel kişiliğe sahiptir. Spor Federasyonunun merkezi Ankara’dadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Genel Kurul en üst organ ve delege sayısı 150-300 arasında olacak.",
+      "dayanak": "Genel Kurulun delege sayısı 150’den az ve 300’den fazla olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu başkan dahil 11 asıl ve 11 yedek üyeden oluşacak.",
+      "dayanak": "Yönetim Kurulu, Genel Kurul tarafından seçilen Federasyon Başkanı dâhil on bir asıl ve on bir yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Denetim Kurulu bakanlıkça görevlendirilen 3 asıl 3 yedek ve genel kurulca seçilen 2 asıl 2 yedekten oluşacak.",
+      "dayanak": "Denetim Kurulu; Bakanlık tarafından görevlendirilen üç asıl ve üç yedek üyenin yanında, Genel Kurul tarafından seçilen ve mali konularda ihtisas sahibi olan iki asıl ve iki yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Disiplin Kurulu genel kurulca seçilen 5 asıl ve 5 yedek üyeden oluşacak.",
+      "dayanak": "Disiplin Kurulu üyeleri, Genel Kurul tarafından seçilen beş asıl ve beş yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Curling ve floor curling kulüpleri, sporcular, antrenörler, hakemler ve federasyon organları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "ANA STATÜLER",
+   "baslik": "Türkiye Kayak Federasyonu Ana Statüsü",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261101-5.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Türkiye Kayak Federasyonunun teşkilatı, kurulları ve görevleri Ana Statü ile düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Federasyon idari ve mali özerkliğe ve tüzel kişiliğe sahiptir, merkezi Ankara’dadır.",
+      "dayanak": "Spor Federasyonu, idari ve mali özerkliğe ve tüzel kişiliğe sahiptir. Spor Federasyonunun merkezi Ankara’dadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Genel Kurul en üst organdır, delege sayısı 150’den az 300’den fazla olamaz.",
+      "dayanak": "Genel Kurulun delege sayısı 150’den az ve 300’den fazla olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu, Federasyon Başkanı dahil 11 asıl ve 11 yedek üyeden oluşur.",
+      "dayanak": "Yönetim Kurulu, Genel Kurul tarafından seçilen Federasyon Başkanı dâhil on bir asıl ve on bir yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Denetim Kurulu, Bakanlığın görevlendirdiği 3 asıl 3 yedek ile Genel Kurulun seçtiği 2 asıl 2 yedek üyeden oluşur.",
+      "dayanak": "Denetim Kurulu; Bakanlık tarafından görevlendirilen üç asıl ve üç yedek üyenin yanında, Genel Kurul tarafından seçilen ve mali konularda ihtisas sahibi olan iki asıl ve iki yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Disiplin Kurulu, Genel Kurul tarafından seçilen 5 asıl ve 5 yedek üyeden oluşur.",
+      "dayanak": "Disiplin Kurulu üyeleri, Genel Kurul tarafından seçilen beş asıl ve beş yedek üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Federasyon başkan adayı olmak için Genel Kurul delegelerinin en az yüzde onunun yazılı desteği gerekir.",
+      "dayanak": "Federasyon başkan adayları yönünden Genel Kurul delegelerinin en az yüzde onunun yazılı desteğine sahip olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Kayak branşındaki kulüpler, sporcular, antrenörler, hakemler ve federasyon organları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  }
+ ]
+}
