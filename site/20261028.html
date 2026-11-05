@@ -1,60 +1,96 @@
-<!doctype html><html lang="tr"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Gazete Özeti · 28 Ekim 2026</title><style>
-:root{--bg:#f7f6f2;--yuzey:#fff;--yazi:#1d1d1b;--soluk:#66645e;--cizgi:#e3e0d8;--vurgu:#8a2b1f;
---yuksek:#8a2b1f;--orta:#7a5a12;--dusuk:#55625a;--etiket:#efece4}
-@media (prefers-color-scheme:dark){:root{--bg:#161614;--yuzey:#1f1f1c;--yazi:#ecebe6;--soluk:#a3a198;
---cizgi:#34332f;--vurgu:#e0897b;--yuksek:#e0897b;--orta:#d9b45f;--dusuk:#9db3a6;--etiket:#2a2926}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--yazi);
-font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
-.sar{max-width:760px;margin:0 auto;padding:24px 16px 64px}
-header h1{font:600 26px/1.2 Georgia,serif;margin:0 0 4px}header p{margin:0;color:var(--soluk)}
-.uyari{font-size:14px;color:var(--soluk);border-left:3px solid var(--vurgu);padding:6px 12px;margin:16px 0}
-.filtre{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}
-.filtre button{border:1px solid var(--cizgi);background:var(--yuzey);color:var(--yazi);border-radius:999px;
-padding:4px 12px;font-size:14px;cursor:pointer}.filtre button.secili{background:var(--yazi);color:var(--bg)}
-.kart{background:var(--yuzey);border:1px solid var(--cizgi);border-radius:10px;padding:16px 18px;margin:12px 0}
-.kart h3{font-size:15px;font-weight:600;margin:8px 0 6px;color:var(--soluk)}
-.tek{font-size:17px;margin:0 0 8px}.kart ul{margin:6px 0;padding-left:20px}.kart li{margin:4px 0}
-details summary{font-size:13px;color:var(--soluk);cursor:pointer}
-blockquote{margin:4px 0;padding:4px 10px;border-left:2px solid var(--cizgi);font-size:14px;color:var(--soluk)}
-.ust{display:flex;flex-wrap:wrap;gap:6px;font-size:12px}
-.etiket{background:var(--etiket);border-radius:4px;padding:1px 7px}
-.onem{font-weight:600}.onem.yuksek{color:var(--yuksek)}.onem.orta{color:var(--orta)}.onem.dusuk{color:var(--dusuk)}
-.meta{font-size:14px;margin:6px 0}.not{font-size:13px;color:var(--soluk);margin:4px 0}
-.asil{font-size:14px;color:var(--vurgu)}.arsiv a{color:var(--vurgu)}
-.gizli{display:none}footer{margin-top:32px;font-size:13px;color:var(--soluk)}
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 fill=%22%23f6f1e7%22/%3E%3Ctext x=%2216%22 y=%2224%22 font-size=%2222%22 font-family=%22Georgia%22 font-weight=%22900%22 text-anchor=%22middle%22 fill=%22%231b1915%22%3EG%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+<title>Gazete Özeti · 28 Ekim 2026</title><meta name="description" content="Resmî Gazete, 28 Ekim 2026: 2 düzenleme sade Türkçeyle; 7 iddia metinden birebir alıntıyla doğrulandı.">
+<meta property="og:title" content="Gazete Özeti · 28 Ekim 2026"><meta property="og:description" content="Resmî Gazete, 28 Ekim 2026: 2 düzenleme sade Türkçeyle; 7 iddia metinden birebir alıntıyla doğrulandı.">
+<style>
+:root{--kagit:#f6f1e7;--yuzey:#fffdf8;--yazi:#1b1915;--soluk:#6b665c;--cizgi:#1b1915;--ince:#d9d1c1;--vurgu:#a3271a;
+--orta:#8a6512;--dusuk:#5b6a60;--isaret:#fde58a}
+@media (prefers-color-scheme:dark){:root{--kagit:#15140f;--yuzey:#1d1b16;--yazi:#efe9dc;--soluk:#a8a192;--cizgi:#efe9dc;
+--ince:#38342b;--vurgu:#f08a76;--orta:#e0b85c;--dusuk:#9fb6a8;--isaret:#5e4d12}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--kagit);color:var(--yazi);font:17px/1.6 "Source Serif 4",Georgia,serif}
+.sar{max-width:1100px;margin:0 auto;padding:0 16px 64px}
+a{color:var(--vurgu)}
+.kunye{text-align:center;padding:26px 0 0}
+.kunye .ust-yazi{font:600 .72rem/1 Inter,system-ui,sans-serif;letter-spacing:.2em;text-transform:uppercase;color:var(--soluk)}
+.kunye h1{font:900 clamp(2.8rem,9vw,5.6rem)/1 "Playfair Display",Georgia,serif;letter-spacing:-.01em;margin:.12em 0 .1em}
+.tarih{display:flex;justify-content:space-between;align-items:center;gap:10px;border-top:3px double var(--cizgi);border-bottom:1px solid var(--cizgi);
+padding:8px 0;font:600 .82rem/1.3 Inter,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em}
+.tarih a{text-decoration:none;color:var(--yazi)}.tarih .bos{opacity:.3}
+.sayilar{display:flex;justify-content:center;flex-wrap:wrap;gap:6px 26px;padding:14px 0;border-bottom:1px solid var(--ince);font:500 .9rem Inter,system-ui,sans-serif;color:var(--soluk)}
+.sayilar b{font:800 1.5rem "Playfair Display",Georgia,serif;color:var(--yazi);margin-right:5px}
+.filtre{position:sticky;top:0;z-index:2;background:var(--kagit);display:flex;gap:6px;padding:12px 0;border-bottom:1px solid var(--ince);overflow-x:auto;scrollbar-width:thin}
+.filtre button{font:600 .82rem Inter,system-ui,sans-serif;border:1px solid var(--ince);background:var(--yuzey);color:var(--yazi);border-radius:99px;padding:6px 12px;cursor:pointer;min-height:34px;white-space:nowrap;flex:0 0 auto}
+.filtre button small{opacity:.55;margin-left:4px}
+.filtre button.secili{background:var(--yazi);color:var(--kagit);border-color:var(--yazi)}
+.sayfa{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 36px;margin-top:8px}
+.kart{padding:22px 0;border-bottom:1px solid var(--ince)}
+.kart.manset{grid-column:1/-1;border-bottom:3px double var(--cizgi);padding:26px 0 24px}
+.kart .ust{font:700 .72rem/1.3 Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--soluk);margin:0 0 6px}
+.onem.yuksek{color:var(--vurgu)}.onem.orta{color:var(--orta)}.onem.dusuk{color:var(--dusuk)}
+.kart h2{font:800 1.45rem/1.18 "Playfair Display",Georgia,serif;margin:0 0 6px}
+.kart.manset h2{font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.08;max-width:24ch}
+.kart .baslik{font-style:italic;color:var(--soluk);font-size:.92rem;margin:0 0 10px}
+.kart.manset .baslik{font-size:1rem}
+.degisim{margin:0;padding:0;list-style:none}
+.kart.manset .degisim{columns:2;column-gap:36px}
+.degisim li{position:relative;padding:5px 0 5px 18px;break-inside:avoid}
+.degisim li::before{content:"";position:absolute;left:2px;top:.85em;width:7px;height:7px;background:var(--vurgu);transform:rotate(45deg)}
+.dayanak{font:700 .8rem Georgia,serif;border:1px solid var(--ince);background:var(--yuzey);color:var(--vurgu);border-radius:5px;width:24px;height:22px;cursor:pointer;vertical-align:1px;padding:0}
+.dayanak[aria-expanded="true"]{background:var(--vurgu);color:var(--yuzey);border-color:var(--vurgu)}
+.alinti{display:block;margin:6px 0 4px;padding:8px 12px;background:var(--yuzey);border-left:3px solid var(--vurgu);font-size:.9rem;color:var(--soluk)}
+.alinti[hidden]{display:none}
+.alinti mark{background:var(--isaret);color:inherit}
+.fazla{font-size:.88rem;color:var(--soluk);margin:4px 0 0}
+.meta{font-size:.92rem;margin:8px 0 0}.meta b{font:700 .7rem Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;margin-right:6px;color:var(--soluk)}
+.not{font-size:.85rem;color:var(--soluk);margin:6px 0 0;font-style:italic}
+.alt{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 14px;align-items:center;margin:12px 0 0;font:500 .8rem Inter,system-ui,sans-serif}
+.rozet{color:var(--dusuk)}
+.alt a{font-weight:700}
+.gizli{display:none}
+.nasil{margin:40px 0 0;padding:20px 22px;background:var(--yuzey);border:1px solid var(--ince);font-size:.95rem}
+.nasil h3{font:800 1.2rem "Playfair Display",Georgia,serif;margin:0 0 6px}
+.nasil p{margin:6px 0}
+.arsiv{margin:26px 0 0;font:500 .88rem Inter,system-ui,sans-serif}
+.arsiv h3{font:800 1.1rem "Playfair Display",Georgia,serif;margin:0 0 8px}
+.arsiv nav{display:flex;flex-wrap:wrap;gap:6px}
+.arsiv a{border:1px solid var(--ince);background:var(--yuzey);padding:5px 10px;text-decoration:none;color:var(--yazi)}
+.arsiv a.bu{background:var(--yazi);color:var(--kagit)}
+footer{margin-top:24px;font:500 .8rem Inter,system-ui,sans-serif;color:var(--soluk)}
+@media (max-width:760px){.sayfa{grid-template-columns:1fr}.kart.manset .degisim{columns:1}.tarih{font-size:.72rem}.tarih .kisa{display:none}}
 </style></head><body><div class="sar">
-<header><h1>Resmî Gazete, 28 Ekim 2026</h1>
-<p>Sayı 33414 · 2 metin · 7/7 iddia metinle doğrulandı</p></header>
-<p class="uyari">Bu sayfa yapay zekâ ile hazırlanır. Her madde, Resmî Gazete metninden birebir alıntıyla
-eşleştirilip ayrıca denetlenir; doğrulanamayan iddialar gösterilmez. Yine de hukuki karar vermeden önce
-aslını okuyun.</p>
-<nav class="filtre"><button data-k="hepsi" class="secili">Hepsi</button><button data-k="onemli">Önemliler</button><button data-k="saglik-ilac">Sağlık ve ilaç</button><button data-k="egitim">Eğitim</button><button data-k="cevre">Çevre</button><button data-k="teskilat-atama">Teşkilat ve atama</button></nav>
-
-<article class="kart" data-konular="cevre" data-onem="orta">
-  <div class="ust"><span class="onem orta">Sektörel</span>
-    <span class="etiket">Çevre</span></div>
-  <h3>Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik</h3>
-  <p class="tek">Yeşil Sertifika Yönetmeliğinin Ek-1, Ek-2 ve Ek-3&#x27;ü değiştirildi.</p>
-  <ul><li>Ek-1, Ek-2 ve Ek-3 ekteki şekilde değiştirildi.<details><summary>Metindeki dayanak</summary><blockquote>Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinin Ek-1, Ek-2 ve Ek-3’ü ekteki şekilde değiştirilmiştir.</blockquote></details></li></ul>
-  <p class="meta"><b>Kimi etkiler:</b> Metinde belirtilmemiştir</p>
-  <p class="meta"><b>Yürürlük:</b> Bu Yönetmelik yayımı tarihinde yürürlüğe girer.</p>
+<header class="kunye"><div class="ust-yazi">Resmî Gazete'nin sade Türkçesi · her sabah</div><h1>Gazete Özeti</h1></header>
+<div class="tarih"><span class="bos">←</span><span>28 Ekim 2026, Çarşamba · Sayı 33414</span><a href="20261030.html" aria-label="Sonraki sayı: 30 Ekim 2026"><span class="kisa">30 Ekim 2026</span> →</a></div>
+<div class="sayilar"><span><b>2</b>düzenleme</span><span><b>0</b>geniş kitleyi etkiliyor</span><span><b>7</b>iddia metinle doğrulandı</span></div>
+<nav class="filtre" aria-label="Konuya göre süz"><button data-k="hepsi" class="secili">Hepsi<small>2</small></button><button data-k="onemli">Önemliler<small>1</small></button><button data-k="saglik-ilac">Sağlık ve ilaç<small>1</small></button><button data-k="egitim">Eğitim<small>1</small></button><button data-k="cevre">Çevre<small>1</small></button><button data-k="teskilat-atama">Teşkilat ve atama<small>1</small></button></nav>
+<main class="sayfa">
+<article class="kart manset" data-konular="cevre" data-onem="orta">
+  <p class="ust"><span class="onem orta">Sektörel</span> · Çevre</p>
+  <h2>Yeşil Sertifika Yönetmeliğinin Ek-1, Ek-2 ve Ek-3&#x27;ü değiştirildi.</h2>
+  <p class="baslik">Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik</p>
+  <ul class="degisim"><li><span>Ek-1, Ek-2 ve Ek-3 ekteki şekilde değiştirildi.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinin Ek-1, Ek-2 ve Ek-3’ü ekteki şekilde değiştirilmiştir.”</span></li></ul>
+  <p class="meta"><b>Kimi etkiler</b> Metinde belirtilmemiştir</p>
+  <p class="meta"><b>Yürürlük</b> Bu Yönetmelik yayımı tarihinde yürürlüğe girer.</p>
   
-  <a class="asil" href="https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm" target="_blank" rel="noopener">Resmî Gazete'deki aslı →</a>
+  <p class="alt"><span class="rozet">✓ 1 iddia metinle doğrulandı</span><a href="https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm" target="_blank" rel="noopener">Aslını oku ↗</a></p>
 </article>
 <article class="kart" data-konular="saglik-ilac egitim teskilat-atama" data-onem="dusuk">
-  <div class="ust"><span class="onem dusuk">Kurumsal / dar kapsamlı</span>
-    <span class="etiket">Sağlık ve ilaç</span><span class="etiket">Eğitim</span><span class="etiket">Teşkilat ve atama</span></div>
-  <h3>İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği</h3>
-  <p class="tek">İstanbul Üniversitesi&#x27;nde doğal kaynaklardan ilaç geliştirme merkezinin görevleri ve yönetimi yeniden düzenlendi.</p>
-  <ul><li>Yönetmeliğin amacı merkezin amaç, faaliyet ve yönetim esaslarını düzenlemek olarak belirlendi.<details><summary>Metindeki dayanak</summary><blockquote>Bu Yönetmeliğin amacı; İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezinin</blockquote></details></li><li>Merkez tıbbi bitkiler, bitkisel droglar ve ekstreler gibi doğal hammaddeler üzerine araştırma yapacak.<details><summary>Metindeki dayanak</summary><blockquote>Doğal kaynaklı biyolojik hammaddeler ile tıbbi bitkiler, bitkisel droglar, ekstreler</blockquote></details></li><li>Merkez fitoterapi, aromaterapi ve apiterapi alanlarında bilimsel ve eğitim faaliyetleri yapacak.<details><summary>Metindeki dayanak</summary><blockquote>Fitoterapi , aromaterapi , apiterapi ve doğal ürün temelli sağlık uygulamalarına yönelik</blockquote></details></li><li>Merkezin yönetim organları Müdür, Yönetim Kurulu ve Danışma Kurulu olarak belirlendi.<details><summary>Metindeki dayanak</summary><blockquote>Merkezin yönetim organları şunlardır:</blockquote></details></li><li>Müdür, Rektör tarafından üniversite öğretim üyeleri arasından üç yıl için görevlendirilecek.<details><summary>Metindeki dayanak</summary><blockquote>Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.</blockquote></details></li><li>5 Nisan 2015 tarihli eski merkez yönetmeliği yürürlükten kaldırıldı.<details><summary>Metindeki dayanak</summary><blockquote>5/4/2015 tarihli ve 29317 sayılı Resmî Gazete’de yayımlanan İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.</blockquote></details></li></ul>
-  <p class="meta"><b>Kimi etkiler:</b> İstanbul Üniversitesi, merkez yöneticileri ve araştırmacılar</p>
-  <p class="meta"><b>Yürürlük:</b> Bu Yönetmelik yayımı tarihinde yürürlüğe girer.</p>
+  <p class="ust"><span class="onem dusuk">Kurumsal</span> · Sağlık ve ilaç · Eğitim · Teşkilat ve atama</p>
+  <h2>İstanbul Üniversitesi&#x27;nde doğal kaynaklardan ilaç geliştirme merkezinin görevleri ve yönetimi yeniden düzenlendi.</h2>
+  <p class="baslik">İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği</p>
+  <ul class="degisim"><li><span>Yönetmeliğin amacı merkezin amaç, faaliyet ve yönetim esaslarını düzenlemek olarak belirlendi.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Bu Yönetmeliğin amacı; İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezinin”</span></li><li><span>Merkez tıbbi bitkiler, bitkisel droglar ve ekstreler gibi doğal hammaddeler üzerine araştırma yapacak.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Doğal kaynaklı biyolojik hammaddeler ile tıbbi bitkiler, bitkisel droglar, ekstreler”</span></li><li><span>Merkez fitoterapi, aromaterapi ve apiterapi alanlarında bilimsel ve eğitim faaliyetleri yapacak.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Fitoterapi , aromaterapi , apiterapi ve doğal ürün temelli sağlık uygulamalarına yönelik”</span></li><li><span>Merkezin yönetim organları Müdür, Yönetim Kurulu ve Danışma Kurulu olarak belirlendi.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Merkezin yönetim organları şunlardır:”</span></li><li><span>Müdür, Rektör tarafından üniversite öğretim üyeleri arasından üç yıl için görevlendirilecek.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.”</span></li><li><span>5 Nisan 2015 tarihli eski merkez yönetmeliği yürürlükten kaldırıldı.</span> <button class="dayanak" aria-expanded="false" title="Resmî Gazete metnindeki dayanağı göster">§</button><span class="alinti" hidden>“5/4/2015 tarihli ve 29317 sayılı Resmî Gazete’de yayımlanan İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.”</span></li></ul>
+  <p class="meta"><b>Kimi etkiler</b> İstanbul Üniversitesi, merkez yöneticileri ve araştırmacılar</p>
+  <p class="meta"><b>Yürürlük</b> Bu Yönetmelik yayımı tarihinde yürürlüğe girer.</p>
   
-  <a class="asil" href="https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm" target="_blank" rel="noopener">Resmî Gazete'deki aslı →</a>
-</article>
-<footer class="arsiv">Arşiv: <a href="20261105.html">5 Kasım 2026</a> · <a href="20261104.html">4 Kasım 2026</a> · <a href="20261103.html">3 Kasım 2026</a> · <a href="20261102.html">2 Kasım 2026</a> · <a href="20261101.html">1 Kasım 2026</a> · <a href="20261031.html">31 Ekim 2026</a> · <a href="20261030.html">30 Ekim 2026</a> · <a href="20261028.html">28 Ekim 2026</a></footer>
+  <p class="alt"><span class="rozet">✓ 6 iddia metinle doğrulandı</span><a href="https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm" target="_blank" rel="noopener">Aslını oku ↗</a></p>
+</article></main>
+<section class="nasil"><h3>Bu sayfa nasıl hazırlanıyor?</h3>
+<p>Her sabah Resmî Gazete'deki bütün metinler okunur (taranmış PDF'ler dahil) ve her biri yapay zekâyla sade Türkçeye çevrilir. Özetteki her değişiklik, metinden <b>birebir bir alıntıyla</b> eşleştirilir: alıntı metinde geçmiyorsa ya da ayrı bir denetim alıntının iddiayı desteklemediğini söylüyorsa o iddia <b>gösterilmez</b>. Her maddenin yanındaki <span class="dayanak" style="display:inline-block;text-align:center">§</span> düğmesi o alıntıyı açar.</p>
+<p>Elle denetimde rastgele seçilen 25 yayımlanmış iddianın 25'i metinle uyumlu çıktı. Yine de bu bir hukuki görüş değildir; karar vermeden önce aslını okuyun.</p></section>
+<section class="arsiv"><h3>Önceki sayılar</h3><nav><a href="20261105.html">5 Kasım 2026</a><a href="20261104.html">4 Kasım 2026</a><a href="20261103.html">3 Kasım 2026</a><a href="20261102.html">2 Kasım 2026</a><a href="20261101.html">1 Kasım 2026</a><a href="20261031.html">31 Ekim 2026</a><a href="20261030.html">30 Ekim 2026</a><a href="20261028.html" class=bu>28 Ekim 2026</a></nav></section>
+<footer>Kod ve yöntem: <a href="https://github.com/birtohum/gazete-ozeti">github.com/birtohum/gazete-ozeti</a> · <a href="https://birtohum.github.io/">birtohum</a></footer>
 </div><script>
 document.querySelectorAll('.filtre button').forEach(b=>b.onclick=()=>{
  document.querySelectorAll('.filtre button').forEach(x=>x.classList.remove('secili'));b.classList.add('secili');
@@ -62,4 +98,5 @@ document.querySelectorAll('.filtre button').forEach(b=>b.onclick=()=>{
   a.classList.toggle('gizli',!(k==='hepsi'||(k==='onemli'?a.dataset.onem!=='dusuk':a.dataset.konular.split(' ').includes(k)))));
  try{localStorage.setItem('konu',k)}catch(_){}});
 try{const k=localStorage.getItem('konu');if(k){const b=document.querySelector(`.filtre button[data-k="${k}"]`);b&&b.click()}}catch(_){}
+document.querySelectorAll('.dayanak').forEach(b=>b.onclick=()=>{const q=b.nextElementSibling,ac=q.hidden;q.hidden=!ac;b.setAttribute('aria-expanded',ac)});
 </script></body></html>
