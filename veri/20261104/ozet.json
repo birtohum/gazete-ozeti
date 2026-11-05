@@ -1,0 +1,502 @@
+{
+ "tarih": "20261104",
+ "sayi": "33420",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİK",
+   "baslik": "İstanbul Üniversitesi İnsan Hakları Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "İstanbul Üniversitesi İnsan Hakları Hukuku Merkezi'nin yapısı ve çalışma kuralları yeniden düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Merkez insan hakları hukukunda teorik ve pratik araştırma yapacak.",
+      "dayanak": "Merkezin amacı; insan hakları hukukuna disiplinler arası bir yaklaşımla, ulusal, uluslararası ve ulusalüstü hukuk ekseninde yoğunlaşarak",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkezi Müdür, Yönetim Kurulu ve Danışma Kurulu yönetecek.",
+      "dayanak": "Merkezin yönetim organları şunlardır: a) Müdür. b) Yönetim Kurulu. c) Danışma Kurulu.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür Hukuk Fakültesi öğretim üyeleri arasından 3 yıllığına görevlendirilecek.",
+      "dayanak": "Müdür, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitenin Hukuk Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu Müdür dahil toplam 7 üyeden oluşacak.",
+      "dayanak": "Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen altı üye olmak üzere toplam yedi üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Danışma Kurulu en fazla 20 üyeden oluşacak.",
+      "dayanak": "Müdürün önerisi üzerine Rektör tarafından üç yıllık süre için görevlendirilen en fazla yirmi üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "2013 tarihli eski Merkez Yönetmeliği kaldırıldı.",
+      "dayanak": "8/12/2013 tarihli ve 28845 sayılı Resmî Gazete’de yayımlanan İstanbul Üniversitesi İnsan Hakları Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "İstanbul Üniversitesi personeli, öğrenciler ve Merkezde görev alacaklar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "KURUL KARARI",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47201] Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-2.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 104,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "ticaret-sirket"
+    ],
+    "onem": "orta",
+    "tek_cumle": "TFRS uygulayan denetime tabi şirketler için yeni finansal tablo örnekleri yayımlandı, eski rehber kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Bağımsız denetime tabi olup TFRS uygulayan şirketler finansal tablolarını bu Rehberdeki örneklere göre hazırlamak zorunda.",
+      "dayanak": "bağımsız denetime tabi olup zorunlu veya isteğe bağlı olarak TFRS uygulayan işletmeler, finansal tablolarını bu Rehber'de yer alan örneklere göre hazırlar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "KAP'a finansal tablo bildiren şirketler ayrıca TFRS Taksonomisindeki örnekleri kullanır.",
+      "dayanak": "Kamuyu Aydınlatma Platformu'na (KAP) finansal tablo bildiriminde bulunan işletmeler bu bildirimlerde ayrıca TFRS Taksonomisinde belirlenen finansal tablo örneklerini kullanırlar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "SPK, BDDK ve sigorta-emeklilik denetimindeki şirketler için sektöre özgü örnek yoksa bu örnekler kullanılır.",
+      "dayanak": "Sayılan şirketler hakkında sektöre özgü finansal tablo örneği belirlenmemesi hâlinde bu finansal tablo örnekleri kullanılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski 30/5/2019 tarihli Finansal Tablo Örnekleri ve Kullanım Rehberi kaldırıldı, yerine bu yeni Rehber geldi.",
+      "dayanak": "30/5/2019 tarihli ve 01/146 sayılı “Finansal Tablo Örnekleri ve Kullanım Rehberi” Kurul Kararı yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yeni Rehber 1/1/2027 tarihinde veya sonrasında başlayan hesap dönemlerinde uygulanacak.",
+      "dayanak": "Bu Rehber, 1/1/2027 tarihinde veya sonrasında başlayan hesap dönemlerinde uygulanmak üzere yürürlüğe girer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "TFRS 18'i erken uygulayan şirketler bu Rehberi erken uygulayabilir, erken uygulama dipnotta açıklanır.",
+      "dayanak": "TFRS 18’i erken uygulamayı tercih eden işletmeler, belirtilen tarihten önce başlayan hesap dönemlerinde bu Rehber’i erken uygulamayı tercih edebilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bağımsız denetime tabi olup TFRS uygulayan şirketler, muhasebeciler ve denetçiler",
+    "yururluk": "1/1/2027 tarihinde veya sonrasında başlayan hesap dönemlerinde uygulanmak üzere yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Rehber, 1/1/2027 tarihinde veya sonrasında başlayan hesap dönemlerinde uygulanmak üzere yürürlüğe girer.",
+    "eksik_okuma": true,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 21/4/2026 Tarihli ve 2022/92607 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 8,
+    "okunan": 8
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi",
+     "saglik-ilac"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Mahkeme, doktora verilen bir aylık meslekten men cezasının ifade özgürlüğünü ihlal ettiğine karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "İfade özgürlüğü iddiası kabul edilebilir bulundu.",
+      "dayanak": "A. İfade özgürlüğünün ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bir ay meslekten men cezasının ifade özgürlüğünü ihlal ettiğine karar verildi.",
+      "dayanak": "B. Anayasa'nın 26. maddesinde güvence altına alınan ifade özgürlüğünün İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "İhlalin giderilmesi için dosyanın yeniden yargılama için Ankara 14. İdare Mahkemesine gönderilmesine karar verildi.",
+      "dayanak": "C. Kararın bir örneğinin ifade özgürlüğünün ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Ankara 14. İdare Mahkemesine (E.2020/562, K.2021/795) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya toplam 40.664,10 TL yargılama gideri ödenmesine karar verildi.",
+      "dayanak": "Ç. 664,10 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.664,10 TL yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Cezayı alan başvurucu doktor ve yeniden yargılama yapacak mahkeme",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2020/22340 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 12,
+    "okunan": 12
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Mahkeme, geçit hakkı bedelinin düşük hesaplanmasını mülkiyet ihlali sayıp yeniden yargılamaya gönderdi.",
+    "degisiklikler": [
+     {
+      "ne": "Geçit hakkı bedelinin düşük belirlenmesi mülkiyet hakkı ihlali sayıldı.",
+      "dayanak": "B. Geçit hakkı bedelinin düşük belirlenmesi nedeniyle Anayasa'nın 35. maddesinde güvence altına alınan mülkiyet hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bedelin enflasyonla değer kaybı iddiası ayrıca incelenmedi.",
+      "dayanak": "C. Geçit hakkı bedelinin enflasyon karşısında değer kaybına uğratılması nedeniyle mülkiyet hakkının ihlal edildiğine ilişkin iddianın İNCELENMESİNE GEREK OLMADIĞINA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İhlali gidermek için dosya yeniden yargılama için Çeşme Sulh Hukuk Mahkemesine gönderildi.",
+      "dayanak": "D. Kararın bir örneğinin mülkiyet hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Çeşme Sulh Hukuk Mahkemesine (E.2016/422, K.2016/611) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucunun 130.000 TL maddi tazminat istemi reddedildi.",
+      "dayanak": "E. Başvurucunun tazminat talebinin REDDİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Harç ve vekalet ücreti toplamı başvurucuya ödenecek.",
+      "dayanak": "F. 446,90 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.446,90 TL yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Saner ERGİLİ ve Çeşme Sulh Hukuk Mahkemesindeki dava tarafları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 5/5/2026 Tarihli ve 2021/6977 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 10,
+    "okunan": 10
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Mahkeme, cezaevindeki başvurucunun takip etmediği davasının düşmesinde hak ihlali olmadığına karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Harç ödemeden başvuru yapma isteği geçici olarak kabul edildi.",
+      "dayanak": "Adli yardım talebinin GEÇİCİ OLARAK KABULÜNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mahkemeye erişim hakkı şikayeti incelenebilir bulundu.",
+      "dayanak": "Mahkemeye erişim hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Mülkiyet hakkı şikayeti, dava yolu düzgün kullanılmadığı için incelenmedi.",
+      "dayanak": "Mülkiyet hakkının ihlal edildiğine ilişkin iddianın başvuru yollarının tüketilmemesi nedeniyle KABUL EDİLEMEZ OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Duruşmaya katılmayıp davayı takip etmediği için davanın düşmesinde mahkemeye erişim hakkı ihlali yoktur.",
+      "dayanak": "Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkı kapsamındaki mahkemeye erişim hakkının İHLAL EDİLMEDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Ertelenen 487,60 TL harç gideri başvurucudan alınacak.",
+      "dayanak": "487,60 TL harçtan ibaret yargılama giderinin 6100 sayılı Kanun'un 339. maddesinin (1) numaralı fıkrası uyarınca başvurucudan TAHSİLİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Hidayet Karaca",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 17/6/2026 Tarihli ve 2023/4554 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 5,
+    "okunan": 5
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "20 bin liralık trafik cezasına itiraz hatalı şekilde kesin reddedildiği için mahkemeye erişim hakkı ihlal edildi.",
+    "degisiklikler": [
+     {
+      "ne": "Fazla yük nedeniyle başvurucuya 20.072 TL trafik idari para cezası verildi.",
+      "dayanak": "başvurucu hakkında 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu'nun 65. maddesinin birinci fıkrasının (b) bendi uyarınca belirlenen 20.072 TL idari para cezası verilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Hâkimlik itirazı, ceza 3.000 TL altında diyerek kesin olarak reddetti.",
+      "dayanak": "evrak üzerinden yapılan inceleme sonucunda 5326 sayılı Kabahatler Kanunu 28/10 hükmü gereğince idari para cezasının 3.000 TL altında bir meblağ teşkil etmesi dolayısıyla miktar itibari ile KESİN olarak karar verildi.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Anayasa Mahkemesi mahkemeye erişim hakkının ihlal edildiğine karar verdi.",
+      "dayanak": "Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkı kapsamındaki mahkemeye erişim hakkının İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "İhlali gidermek için yeniden yargılama için karar Tunceli Sulh Ceza Hâkimliğine gönderildi.",
+      "dayanak": "Kararın bir örneğinin mahkemeye erişim hakkının ihlalinin sonuçlarının ortadan kaldırılması amacıyla yeniden yargılama yapılması için Tunceli Sulh Ceza Hâkimliğine (D. İş 2022/1340) GÖNDERİLMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucunun tazminat talepleri reddedildi.",
+      "dayanak": "Başvurucunun tazminat taleplerinin REDDİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya 40.000 TL vekâlet ücreti ödenmesine karar verildi.",
+      "dayanak": "40.000 TL vekâlet ücretinden oluşan yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Fevzi Budak ve yeniden yargılama yapacak mahkeme",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/8412 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-7.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 12,
+    "okunan": 12
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Restoranda vurulan başvurucunun soruşturması geç yürütüldü, yaşam hakkı ihlal sayıldı, tazminata hükmedildi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvurunun incelenebilir olduğu kabul edildi.",
+      "dayanak": "A. Yaşam hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yaşam hakkının usul yönünden ihlal edildiğine karar verildi.",
+      "dayanak": "B. Anayasa'nın 17. maddesinde güvence altına alınan yaşam hakkının usul boyutunun İHLAL EDİLDİĞİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucuya 200 bin lira manevi tazminat ödenmesine, diğer tazminat isteklerinin reddine karar verildi.",
+      "dayanak": "C. Başvurucuya net 200.000 TL manevi tazminat ÖDENMESİNE, tazminata ilişkin diğer taleplerin REDDİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Harç ve vekalet ücretinden oluşan toplam 40.487,60 lira yargılama giderinin başvurucuya ödenmesine karar verildi.",
+      "dayanak": "D. 487,60 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.487,60 TL yargılama giderinin başvurucuya ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yeniden yargılama yapılmasında hukuki yarar bulunmadığına karar verildi.",
+      "dayanak": "ihlalin ve sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasında hukuki yarar bulunmamaktadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Sinan DİLER",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 8,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 18/6/2026 Tarihli ve 2021/42538 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261104-8.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 6,
+    "okunan": 6
+   },
+   "ozet": {
+    "konular": [
+     "vergi",
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Anayasa Mahkemesi engelli raporuyla alınan araç vergilerindeki farklı mahkeme kararlarını adil yargılanma ihlali sayıp yeniden yargılamaya gönderdi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvurucu %90 engelli raporuna dayanarak ÖTV istisnasıyla taşıt aldı.",
+      "dayanak": "22/6/2016 tarihli ve 14555 numaralı %90 engellilik oranını içeren engelli sağlık kurulu raporuna istinaden",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Hastane, 2016 tarihli raporun arşiv kaydı bulunmadığından teyit edilemediğini bildirdi.",
+      "dayanak": "başvurucu adına düzenlenen raporun arşiv kaydı bulunmadığından teyidinin yapılamadığı belirtilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurucu adına cezalı vergiler tahakkuk ettirildi.",
+      "dayanak": "kat vergi ziyai cezalı motorlu taşıtlar vergisi (MTV) tahakkuk ettirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "ÖTV davasında 2019 raporunun 2016 raporu yerine geçemeyeceği gerekçesiyle dava reddedildi.",
+      "dayanak": "8/5/2019 tarihli raporun da başvurucu adına düzenlenen 22/6/2016 tarihli rapor yerine geçmişe etkili olarak ikame edilmesinin mümkün olmadığı gerekçesiyle davanın reddine oyçokluğuyla karar verilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "MTV davasında raporun sahteliği iddia edilmediği için dava kabul edildi ve karar kesinleşti.",
+      "dayanak": "söz konusu raporun sahteliğine ilişkin bir iddia olmadığından davanın kabulüne karar verilmiş, karar istinaf incelemesinden geçerek kesinleşmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Anayasa Mahkemesi hakkaniyete uygun yargılanma hakkının ihlal edildiğine karar verip yeniden yargılama için dosyayı vergi mahkemesine gönderdi.",
+      "dayanak": "hakkaniyete uygun yargılanma hakkının İHLAL EDİLDİĞİNE, D. Kararın bir örneğinin hakkaniyete uygun yargılanma hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Emine Baykara ve yeniden yargılama yapacak Diyarbakır Vergi Mahkemesi",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}

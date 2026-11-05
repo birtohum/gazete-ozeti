@@ -1,0 +1,179 @@
+{
+ "tarih": "20261105",
+ "sayi": "33421",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Haberleşme, Seyrüsefer ve Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik (SHY-CNS/MÂNİA)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "ulastirma",
+     "imar-kamulastirma",
+     "enerji"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Hava seyrüsefer sistemleri çevresindeki yapılaşma ve rüzgar santralleri için koruma alanları ve izin süreci düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Yapılaşma başvuruları önce dijital platformda taranır, ihlal ya da sınır durumu varsa uzman incelemesine gider.",
+      "dayanak": "Yapılaşma değerlendirmeleri, Aşama-1 (Genel Girdi Taraması) ve Aşama-2 (Uzman Etki Analizi) olmak üzere iki kademelidir.",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     },
+     {
+      "ne": "Cihazlar çevresindeki yapı yasaklı alanların ihlal edilmemesi önceliklidir.",
+      "dayanak": "CNS sistemleri çevresindeki yapılaşmaların bu Yönetmelikte gösterilen YTA alanlarını ihlal etmemesi önceliklidir.",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     },
+     {
+      "ne": "Koruma alanı içinde vinç ve iskele gibi geçici ekipman için önceden bildirim ve izin zorunludur.",
+      "dayanak": "YTA dahilinde kullanılacak geçici ekipman ve engeller (vinç, beton pompası, geçici anten, iskele ve benzeri) için ön bildirim ve izin zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     },
+     {
+      "ne": "Zeminden 100 metre ve üzeri tüm yapılar havacılık bilgi yayınında yayımlanması için bildirilir.",
+      "dayanak": "zeminden itibaren 100 metre (dâhil) ve üzerinde yüksekliğe sahip tüm yapılaşma bilgileri, hava seyrüsefer emniyetini sağlamak üzere AIP'de yayınlanması için",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     },
+     {
+      "ne": "Radar görüş alanındaki rüzgar santralleri mesafeye bakılmadan uzman incelemesinden geçer.",
+      "dayanak": "Radar istasyonu görüş alanı içinde olan rüzgâr enerji santrallerine ilişkin, mesafeye bakılmaksızın CNS hizmet sağlayıcısı tarafından Aşama-2 (Uzman Etki Analizi) ve değerlendirme yapılması zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     },
+     {
+      "ne": "2013 tarihli eski mânia yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "23/8/2013 tarihli ve 28744 sayılı Resmî Gazete’de yayımlanan Haberleşme, Seyrüsefer, Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Havaalanı çevresinde yapı yapanlar, RES işletmecileri ve CNS hizmet sağlayıcıları",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Eğitim ve Belgelendirme Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Harita ve Kadastro Mühendisleri Odası eğitim ve belgelendirme merkezinin çalışma kuralları yeniden düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Odanın Eğitim ve Belgelendirme Merkezinin çalışma esasları, görev ve sorumlulukları düzenlendi.",
+      "dayanak": "Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Eğitim ve Belgelendirme Merkezinin çalışma esaslarına, organizasyon yapısına, görev, yetki ve sorumluluklarına ilişkin usul ve esasları düzenlemektir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eğitimler yüz yüze, çevrim içi uzaktan ve karma hibrit yöntemle yapılabilecek.",
+      "dayanak": "Eğitim faaliyetlerini yüz yüze, çevrim içi uzaktan ve karma ( hibrit ) yöntemlerle yürüterek",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eğitim konuları, süreleri, eğiticiler ve ücretleri Yönetim Kurulu belirleyecek.",
+      "dayanak": "Eğitim konuları, eğitim programları ve süreleri, eğitici görevlendirmeleri, ücretler ile eğitim programlarına ilişkin esaslar; EBM Koordinatörünün görüşü alınarak Yönetim Kurulu tarafından belirlenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eğitim başvuruları Odanın kurumsal internet sitesi üzerinden alınacak.",
+      "dayanak": "Her eğitim programı için katılımcı başvuruları; Odanın kurumsal internet sitesi üzerinden alınır",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eğitim programında %80 devam zorunluluğu var.",
+      "dayanak": "Eğitim programına belirlenen süre ve içerik kapsamında %80 düzenli devam zorunluluğunu yerine getirmek.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2007 tarihli eski meslek içi eğitim ve belgelendirme yönetmeliği kaldırıldı.",
+      "dayanak": "17/2/2007 tarihli ve 26437 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odası Meslek İçi Eğitim ve Belgelendirme Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Harita ve kadastro mühendisleri, eğitime katılanlar ve eğiticiler",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "KURUL KARARI",
+   "baslik": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "ticaret-sirket"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Sürdürülebilirlik denetim ekiplerine yönelik muafiyet süresi bir yıl uzatıldı ve 2028 öncesi dönemler için ekip şartı esnetildi.",
+    "degisiklikler": [
+     {
+      "ne": "Sürdürülebilirlik Denetimi Yönetmeliği Geçici 1 inci madde üçüncü fıkradaki süre bir yıl uzatıldı.",
+      "dayanak": "Sürdürülebilirlik Denetimi Yönetmeliğin Geçici 1 inci maddesinin üçüncü fıkrasındaki sürenin bir yıl uzatılmasına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "01.01.2028 tarihinden önce biten hesap dönemlerine ilişkin sürdürülebilirlik denetimlerinde asıl ekipte sorumlu denetçi ile en az iki denetçinin sürdürülebilirlik alanında yetkili olması yeterli sayıldı.",
+      "dayanak": "sorumlu denetçi ile en az iki denetçinin sürdürülebilirlik alanında denetim faaliyetinde bulunma yetkisini haiz olmasına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu denetçiler dışında asıl ve yedek denetim ekiplerinde sürdürülebilirlik alanında yetkili olmayan denetçilere yer verilebilecek.",
+      "dayanak": "bu denetçiler haricinde asıl ve yedek denetim ekiplerinde sürdürülebilirlik alanında yetkili olmayan denetçilere yer verilebilmesine,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Sürdürülebilirlik denetimi yapan denetçiler ve denetim kuruluşları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,651 @@
+{
+ "tarih": "20261103",
+ "sayi": "33419",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİK",
+   "baslik": "Ormancılık Faaliyetlerinde Vahidi Fiyatla Çalışan Orman Köylülerine Yapılacak Ayni veya Nakdi Dağıtımın Uygulamasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "tarim-hayvancilik"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Vahidi fiyatla çalışan orman köylülerine satış gelirinden pay dağıtımının kuralları belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Satış gelirinden üretim giderleri düşüldükten sonra kalan tutarın yüzde 10'una kadar ayni veya nakdi dağıtım yapılacak.",
+      "dayanak": "istihsali yapılan oduna dayalı orman ürünlerinin satış gelirinden üretim giderleri düşüldükten sonra kalan tutarın yüzde onuna kadarının ayni veya nakdi olarak dağıtımı yapılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Aynı köy nüfusuna kayıtlı olanın o köyde en az 1 yıl kesintisiz oturması gerekir.",
+      "dayanak": "dağıtıma konu orman köyü nüfusuna kayıtlı olanların söz konusu orman köyünde kesintisiz olarak en az bir yıldır ikamet etmesi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başka köy nüfusuna kayıtlı olanın o köyde en az 3 yıl kesintisiz oturması gerekir.",
+      "dayanak": "başka köy nüfusuna kayıtlı olup da dağıtıma konu orman köyünde kesintisiz olarak en az üç yıldır ikamet etmesi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "O yıl o köyde vahidi fiyatla çalışmış olmak ve kayıtlarda görünmek gerekir.",
+      "dayanak": "sözleşmeye veya şartnameye dayalı olarak kendi nam ve hesabına veya kooperatif ortağı olarak vahidi fiyatla çalıştığının ilgili kayıtlarda ve ödeme belgelerinde yer alması,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Paranın yarısı hak sahiplerine eşit, kalan yarısı hakediş tutarına göre paylaştırılır.",
+      "dayanak": "Belirlenen dağıtım miktarının yüzde ellisi, ilgili orman köyündeki hak sahipliği listesinde yer alanlara eşit olarak; kalan yüzde ellisi ise",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kişi başı yıllık dağıtım bir aylık net asgari ücreti geçemez.",
+      "dayanak": "Her bir hak sahibine yapılacak ayni ve/veya nakdi dağıtım tutarının yıllık toplam miktarı, dağıtıma konu cari yılda asgari ücret tespit komisyonunca belirlenen aylık net asgari ücretin bir aylık tutarını geçemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Vahidi fiyatla ormancılık işi yapan orman köylüleri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Özelleştirme İdaresi Başkanlığının 30/10/2026 Tarihli ve 2026/ÖİB-K-46 Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-2.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "diger"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Antalya Kaş'taki iki parselin Buğra Mete Karaman'a satışına ilişkin ihale kararı onaylandı.",
+    "degisiklikler": [
+     {
+      "ne": "Antalya Kaş'taki 835,29 m² taşınmazların bir bütün halinde 45.500.000 TL bedelle Buğra Mete KARAMAN'a satılmasına dair ihale kararı onaylandı.",
+      "dayanak": "149 ada 8 ve 29 parsel numaralı toplam, 835,29 m² yüzölçümlü taşınmazların bir bütün halinde; 45.500.000.- (Kırkbeşmilyonbeşyüzbin) Türk Lirası bedelle en yüksek teklifi veren Buğra Mete KARAMAN'a İhale Şartnamesi çerçevesinde satılmasına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Alıcı sözleşmeyi imzalamaz veya yükümlülükleri yerine getirmezse teminatı İdareye kalacak ve ihale iptal edilecek.",
+      "dayanak": "Buğra Mete KARAMAN'ın sözleşmeyi imzalamaktan imtina etmesi veya diğer yükümlülükleri yerine getirmemesi halinde teminatının İdare lehine irat kaydedilmesine ve ihalenin iptaline",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Buğra Mete KARAMAN",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Avukatlık Asgari Ücret Tarifesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Mahkemelerde avukatlara ödenecek en düşük ücretler ve karşı tarafa yükletilecek vekalet ücretinin kuralları belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Mahkeme ve tüm hukuki yardımlarda avukatlık ücretinde bu Tarife uygulanır.",
+      "dayanak": "Mahkemelerde, tüm hukuki yardımlarda, taraflar arasındaki uyuşmazlığı sonlandıran her türlü merci kararlarında",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tarifedeki en düşük tutarın altında avukatla ücret anlaşması yapılamaz.",
+      "dayanak": "Avukatlık asgarî ücret tarifesi altında vekalet ücreti kararlaştırılamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kaybeden tarafın ödeyeceği avukatlık ücreti tarifedekinden az, üç katından fazla olamaz.",
+      "dayanak": "Yargı yerlerince avukata ait olmak üzere karşı tarafa yükletilecek avukatlık ücreti, bu Tarifede yazılı miktardan az ve üç katından çok olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Dava ön inceleme tutanağı imzalanmadan sulh, feragat veya kabulle biterse ücretin yarısı, sonra biterse tamamı verilir.",
+      "dayanak": "Anlaşmazlık, davanın konusuz kalması, feragat, kabul, sulh veya herhangi bir nedenle; ön inceleme tutanağı imzalanıncaya kadar giderilirse, bu Tarife hükümleriyle belirlenen ücretlerin yarısına, ön inceleme tutanağı imzalandıktan sonra giderilirse tamamına hükmolunur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Beraat eden ve avukatla temsil edilen sanık lehine Hazine aleyhine maktu avukatlık ücretine hükmedilir.",
+      "dayanak": "Beraat eden ve vekil veya müdafi ile temsil edilen sanık yararına Hazine aleyhine maktu avukatlık ücretine hükmedilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Çok sayıda açılan seri davalarda dosya sayısı arttıkça dosya başına hükmedilen ücret oranı düşer.",
+      "dayanak": "toplamda on dosyaya kadar açılan seri davalarda her bir dosya için ayrı ayrı tam avukatlık ücretine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Avukatlar ile davalarda taraf olan kişiler",
+    "yururluk": "Bu Tarife yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tarife yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Mevcut Teknik Altyapı Tesislerinin Bakımına, Onarımına, İyileştirilmesine ve İzin Süresi Uzatımlarına İlişkin İlke Kararı (No: 151)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Mevcut teknik altyapı tesislerinin asgari bakımı koşullarla komisyon kararı olmadan ilgili idarece sonuçlandırılabilecek.",
+    "degisiklikler": [
+     {
+      "ne": "Kesin Korunacak Hassas Alanlar hariç, diğer doğal sit alanlarındaki tesisler kapsanır.",
+      "dayanak": "Kesin Korunacak Hassas Alan statüsü hariç diğer doğal sit alanı statüleri içerisinde yer",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yalnızca daha önce Komisyon veya Kurulca uygun bulunup yapımı biten teknik altyapı tesisleri kapsanır.",
+      "dayanak": "projesi daha önce ilgili Tabiat Varlıklarını Koruma Bölge Komisyonu ya da mülga Kültür ve Tabiat Varlıklarını Koruma Bölge Kurulunca uygun görülerek imalatı tamamlanan",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Asgari düzeyde bakım, onarım, iyileştirme ve izin süresi uzatımı talepleri kapsanır.",
+      "dayanak": "teknik altyapı tesislerine yönelik asgari düzeyde bakım, onarım, iyileştirme ve izin süresi uzatımına yönelik taleplerin;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doğal sit statüsü değişmemeli ve tesise ilave hat, yapı veya benzeri yeni düzenleme yapılmamalı.",
+      "dayanak": "doğal sit statüsünün değişmemesi, söz konusu tesislere ilave bir hat, yapı ya da benzeri yeni bir düzenleme yapılmaması,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Varsa önceki karardaki detaylara aykırı olunmamalı ve işlemden önce İl Müdürlüğünün görüşü alınmalı.",
+      "dayanak": "varsa Komisyon/Kurul kararında belirtilen diğer detaylara aykırı olmaması ve yapılacak işlemler öncesinde ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü görüşünün alınması koşullarıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu koşullarla tekrar Komisyon kararı alınmadan ilgili idareler talebi sonuçlandırabilir.",
+      "dayanak": "tekrar Tabiat Varlıklarını Koruma Bölge Komisyonu kararı alınmasına gerek olmaksızın ilgili idarelerce sonuçlandırılabileceğine,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Doğal sitteki mevcut teknik altyapı tesisi talepleriyle ilgili idareler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Doğal Sit Tescili Öncesi Mera Vasfı Bulunan Alanların Kullanımına İlişkin İlke Kararı (No: 152)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre",
+     "tarim-hayvancilik"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Sit tescilinden önce mera olan alanlarda şartlı otlatmaya izin verildi, kural ihlalinde faaliyet durdurulacak.",
+    "degisiklikler": [
+     {
+      "ne": "Tescilden önce mera olan sit alanlarında Bölge Komisyonu değerlendirmesiyle otlatmaya izin verilebilir.",
+      "dayanak": "Bölge Komisyonunca yapılacak değerlendirme sonucunda mera vasfı taşıyan alanlarda otlatma faaliyetlerine izin verilebileceğine,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzin için otlatmanın ekolojik özelliklere zarar vermeyeceği teknik raporla gösterilecek ve koruma-kullanma dengesi gözetilecek.",
+      "dayanak": "Otlatmanın alanın ekolojik özelliklerine zarar vermeyeceğinin ilgili İdarece hazırlanacak/hazırlatılacak teknik bir raporla ortaya konulması",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kural ihlali tespit edilirse yeni Bölge Komisyonu kararı alınana kadar faaliyet İl Müdürlüğü denetiminde durdurulur.",
+      "dayanak": "yeniden Bölge Komisyonu kararı alınıncaya kadar söz konusu faaliyetlerin, ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün denetiminde durdurulmasına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Sit alanlarındaki meraları geleneksel olarak kullanan yöre halkı",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Tarımsal Amaçlı Ağaç Dikim Çukuru Açılmasına İlişkin İlke Kararı (No: 153)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "tarim-hayvancilik",
+     "cevre"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Tarım imarlı doğal sitte koşullu ağaç dikimine komisyon kararı gerekmez, sonraki yapılar komisyona bağlıdır.",
+    "degisiklikler": [
+     {
+      "ne": "Kesin korunacak hassas alanlar ve 1. derece doğal sit alanları bu kolaylıktan yararlanamaz.",
+      "dayanak": "Kesin Korunacak Hassas Alanlar ve I. Derece Doğal Sit Alanları hariç olmak üzere",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doğal sit içinde tarım imarlı alanlarda ağaç dikmek için komisyon kararı gerekmeyecek.",
+      "dayanak": "ağaç dikilmesi işlemleri için Tabiat Varlıklarını Koruma Bölge Komisyonu kararına gerek olmadığına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bunun için iş makinesi kullanılmaması, arazinin bozulmaması ve yöreye uygun bitki olması şart.",
+      "dayanak": "uygulama sırasında iş makinesi kullanılmaması, topografyanın bozulmaması ve yörenin doğal bitki örtüsüne uygun olması koşullarıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Dikimden sonraki kuyu, sondaj, sulama sistemi, tel çit veya duvar gibi işler komisyon incelemesine bağlı olacak.",
+      "dayanak": "(sondaj yapılması, kuyu açılması, sulama sistemi kurulması, tel çit/duvar yapımı gibi) ise Tabiat Varlıklarını Koruma Bölge Komisyonu tarafından değerlendirilmesine,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Doğal sitte tarım arazisi olanlar ve ağaç dikmek isteyenler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Sportif Amaçlı Parkur İlanları ve Faaliyetlerine İlişkin İlke Kararı (No: 154)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-7.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Doğal sit alanlarında sportif parkur ilanı ve sonraki fiziki işler için izin usulü düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Kesin korunacak hassas alanlar dışındaki doğal sit alanlarındaki parkur ilanları bu karara girer.",
+      "dayanak": "Kesin korunacak hassas alanlar hariç olmak üzere doğal sit alanlarında",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Parkur ilanının fiziki ve inşai müdahale içermemesi ve önceden İl Müdürlüğü görüşü alınması gerekir.",
+      "dayanak": "herhangi bir fiziki ve/veya inşai müdahale içermemesi ve öncesinde ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü görüşünün alınması kaydıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu şartları sağlayan parkur ilanı Komisyon kararı olmadan ilgili idarece yapılabilir.",
+      "dayanak": "ayrıca Tabiat Varlıklarını Koruma Bölge Komisyonu kararı alınmasına gerek olmaksızın ilgili idaresince gerçekleştirilebileceğine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Parkur ilanından sonraki depo, güvenlik kulübesi, tabela gibi fiziki işler Komisyonca değerlendirilir.",
+      "dayanak": "her türlü fiziki müdahale ve uygulamaya (malzeme deposu, güvenlik kulübesi, tabela ve benzeri) yönelik faaliyetlerin ise Tabiat Varlıklarını Koruma Bölge Komisyonu tarafından değerlendirilmesine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Doğal sit alanlarında parkur ilanı ve sportif faaliyet yürütenler ile ilgili idareler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 8,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Ulaşım Amaçlı Havai Hatlara İlişkin İlke Kararı (No: 155)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-8.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre",
+     "ulastirma",
+     "imar-kamulastirma"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Zorunlu teleferik benzeri hatlara doğal sit alanında komisyon izni yolu açıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Başka güzergahtan geçmesi mümkün olmayan teleferik, telesiyej gibi ulaşım amaçlı havai hatlar doğal sit alanında yapılabilecek.",
+      "dayanak": "başka güzergâhtan geçirilmesi mümkün olmayan teleferik, telesiyej gibi ulaşım amaçlı havai hatlar",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu hatlar ve yapımı için zorunlu imalatlar için koruma amaçlı imar planı hazırlanması veya geçiş dönemi esaslarının belirlenmesi gerekiyor.",
+      "dayanak": "koruma amaçlı imar planları hazırlanması ya da geçiş dönemi koruma esasları ve kullanma şartları belirlenmesi kaydıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzin, ilgili Tabiat Varlıklarını Koruma Bölge Komisyonu değerlendirmesine göre verilebilecek.",
+      "dayanak": "ilgili Tabiat Varlıklarını Koruma Bölge Komisyonunca yapılacak değerlendirmeye göre izin verebileceğine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Doğal sit alanında ulaşım amaçlı havai hat yapmak isteyenler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 9,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Nitelikli Doğal Koruma Alanlarında Şehitlik veya Mezarlık Alanlarına Yönelik İlke Kararı (No: 156)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-9.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Nitelikli doğal koruma alanlarında şartları sağlayan şehitlik ve mezarlık alanlarına komisyon değerlendirmesiyle izin verilebilecek.",
+    "degisiklikler": [
+     {
+      "ne": "Nitelikli doğal koruma alanlarında şehitlik ve/veya mezarlık alanlarına Bölge Komisyonu değerlendirmesine göre izin verilebilir.",
+      "dayanak": "ilgili Tabiat Varlıklarını Koruma Bölge Komisyonunca yapılacak değerlendirmeye göre şehitlik ve/veya mezarlık alanlarına izin verilebileceğine oy birliği ile karar verildi.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başka uygun alan olmadığı ilgili idarelerce gerekçelendirilmelidir.",
+      "dayanak": "yer seçimi açısından alternatif başka bir alan bulunmadığının ilgili idarelerce gerekçelendirilmesi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Alanın yüzölçümü, defin kapasitesi ve yapılaşma sınırları koruma amaçlı imar planı veya geçiş dönemi esaslarına göre belirlenmelidir.",
+      "dayanak": "alanın toplam yüzölçümü ve defin kapasitesi ile yapılabilecek yapı ve tesislere ait tür, büyüklük ve yapılaşma sınırlarının koruma amaçlı imar planı ya da geçiş dönemi koruma esasları ve kullanma şartları doğrultusunda belirlenmesi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Diğer mevzuat hükümleri saklıdır.",
+      "dayanak": "ilgili diğer mevzuat hükümleri saklı kalmak üzere",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "İlgili idareler ve Tabiat Varlıklarını Koruma Bölge Komisyonları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 10,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Nitelikli Doğal Koruma Alanlarında Rüzgar Enerji Santrali (RES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 157)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-10.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "enerji",
+     "cevre"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Nitelikli doğal koruma alanlarında 18 türbini geçmeyen RES projelerine komisyon değerlendirmesiyle izin verilebilecek.",
+    "degisiklikler": [
+     {
+      "ne": "20 adet ve 50 MWm sınırını belirten eski ifade kaldırıldı.",
+      "dayanak": "türbin sayısı 20 adeti ve kurulu gücü 50 MWm’ı geçmemek kaydıyla Nitelikli Doğal Koruma Alanlarında",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Nitelikli doğal koruma alanlarında kalan ve türbin sayısı 18 adeti geçmeyen RES projelerine izin verilebilecek.",
+      "dayanak": "türbin sayısı 18 adeti geçmeyen rüzgar enerji santrali projelerine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzin, hazırlanacak koruma amaçlı imar planları doğrultusunda ilgili komisyonun değerlendirmesine göre verilecek.",
+      "dayanak": "hazırlanacak koruma amaçlı imar planları doğrultusunda ilgili Tabiat Varlıklarını Koruma Bölge Komisyonunca yapılacak değerlendirmeye göre izin verilebileceğine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Değerlendirmede alanın kaynak değerleri, ekolojik bütünlük, çevresel etkilerin önlenmesi ve kamu yararı dikkate alınacak.",
+      "dayanak": "alanın kaynak değerleri ve ekolojik bütünlüğü gözetilerek, çevresel etkilerin önlenmesi veya en aza indirilmesine yönelik tedbirlerin yeterliliği ve projenin kamu yararı bakımından gerekliliği dikkate alınmak suretiyle",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Nitelikli doğal koruma alanlarında RES projesi yapmak isteyenler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 11,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Nitelikli Doğal Koruma Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 158)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-11.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "enerji",
+     "cevre"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Nitelikli doğal koruma alanlarında şartları sağlayan HES projelerine izin verilebilir.",
+    "degisiklikler": [
+     {
+      "ne": "Nitelikli doğal koruma alanlarında koruma amaçlı imar planlarına uygun HES projelerine izin verilebilir.",
+      "dayanak": "hidroelektrik santrali (HES) projelerine izin verilebileceğine oy birliğiyle karar verildi.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Olumsuz etkilerin önlenmesi için üniversitenin ilgili bölümüne ekosistem değerlendirme raporu hazırlatılması gerekir.",
+      "dayanak": "üniversitelerin ilgili bölümlerine ekosistem değerlendirme raporu hazırlatılması",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Raporun yatırımcı İdarece uygun bulunması ve rapordaki hususların uygulanacağına dair taahhüt alınması gerekir.",
+      "dayanak": "bu raporun ilgili yatırımcı İdarece uygun bulunarak raporda ifade edilen hususların yatırımcı İdarece uygulanacağına dair taahhütlerin alınması kaydıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bölge Komisyonu değerlendirmesine göre hazırlanacak koruma amaçlı imar planı doğrultusunda hareket edilir.",
+      "dayanak": "Tabiat Varlıklarını Koruma Bölge Komisyonunca yapılacak değerlendirmeye göre hazırlanacak koruma amaçlı imar planları doğrultusunda",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "HES yatırımcıları, ilgili yatırımcı İdareler ve Tabiat Varlıklarını Koruma Bölge Komisyonu",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 12,
+   "bolum": "İLKE KARARLARI",
+   "baslik": "Sürdürülebilir Koruma ve Kontrollü Kullanım Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 159)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-12.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "cevre",
+     "enerji"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Sürdürülebilir koruma alanlarında şartları karşılayan HES projelerine izin verilebilecek.",
+    "degisiklikler": [
+     {
+      "ne": "Bu koruma alanlarında HES projelerine izin verilebilecek.",
+      "dayanak": "hidroelektrik santralı (HES) projelerine izin verilebileceğine oy birliğiyle karar verildi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Üniversitelerin ilgili bölümlerine ekosistem değerlendirme raporu hazırlatılacak.",
+      "dayanak": "üniversitelerin ilgili bölümlerine ekosistem değerlendirme raporu hazırlatılması",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Rapor yatırımcı İdarece uygun bulunacak ve rapordaki hususların uygulanacağına dair taahhüt alınacak.",
+      "dayanak": "bu raporun ilgili yatırımcı İdarece uygun bulunarak raporda ifade edilen hususların yatırımcı İdarece uygulanacağına dair taahhütlerin alınması kaydıyla",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bölge Komisyonu değerlendirmesine göre koruma amaçlı imar planları hazırlanacak ve izin bu planlara göre olacak.",
+      "dayanak": "Tabiat Varlıklarını Koruma Bölge Komisyonunca yapılacak değerlendirmeye göre hazırlanacak koruma amaçlı imar planları doğrultusunda",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bu koruma alanlarında HES yapmak isteyen yatırımcılar ve ilgili idareler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}
