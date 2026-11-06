@@ -68,8 +68,7 @@ def kart(m, mansetmi=False):
     if o.get("yururluk") and o.get("yururluk_benzerlik", 0) >= 0.9:
         yururluk = f'<p class="meta"><b>Yürürlük</b> {e(o["yururluk"])}</p>'
     onem = o.get("onem", "")
-    rozet = (f'<span class="rozet">✓ {len(dogru)} iddia metinle doğrulandı'
-             + (f", {len(hepsi) - len(dogru)} doğrulanamadığı için gizlendi" if len(hepsi) > len(dogru) else "") + "</span>") if hepsi else ""
+    rozet = ((f'<span class="rozet">✓ {len(dogru)} iddia metinle doğrulandı' + (f", {len(hepsi) - len(dogru)} doğrulanamadığı için gizlendi" if len(hepsi) > len(dogru) else "") + "</span>") if dogru else f'<span class="rozet yok">Doğrulanan iddia yok: {len(hepsi)} iddia metinle eşleşmediği için gizlendi. Asıl metne bakın.</span>') if hepsi else ""
     return f"""
 <article class="kart{' manset' if mansetmi else ''}" data-konular="{' '.join(o['konular'])}" data-onem="{e(onem)}">
   <p class="ust"><span class="onem {e(onem)}">{ONEM_AD.get(onem, '')}</span> · {' · '.join(KONU_AD[k] for k in o['konular'])}</p>
@@ -127,6 +126,7 @@ padding:8px 0;font:600 .82rem/1.3 Inter,system-ui,sans-serif;text-transform:uppe
 .not{font-size:.85rem;color:var(--soluk);margin:6px 0 0;font-style:italic}
 .alt{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 14px;align-items:center;margin:12px 0 0;font:500 .8rem Inter,system-ui,sans-serif}
 .rozet{color:var(--dusuk)}
+.rozet.yok{color:#a33a1f;font-weight:600}
 .alt a{font-weight:700}
 .gizli{display:none}
 .nasil{margin:40px 0 0;padding:20px 22px;background:var(--yuzey);border:1px solid var(--ince);font-size:.95rem}
@@ -188,7 +188,7 @@ def gun_sayfasi(t, arsiv):
 <section class="nasil"><h3>Bu sayfa nasıl hazırlanıyor?</h3>
 <p>Her sabah Resmî Gazete'deki bütün metinler okunur (taranmış PDF'ler dahil) ve her biri yapay zekâyla sade Türkçeye çevrilir. Özetteki her değişiklik, metinden <b>birebir bir alıntıyla</b> eşleştirilir: alıntı metinde geçmiyorsa ya da ayrı bir denetim alıntının iddiayı desteklemediğini söylüyorsa o iddia <b>gösterilmez</b>. Her maddenin yanındaki <span class="dayanak" style="display:inline-block;text-align:center">§</span> düğmesi o alıntıyı açar.</p>
 <p>Elle denetimde rastgele seçilen 25 yayımlanmış iddianın 25'i metinle uyumlu çıktı. Yine de bu bir hukuki görüş değildir; karar vermeden önce aslını okuyun.</p></section>
-<section class="arsiv"><h3>Önceki sayılar</h3><nav>{''.join(f'<a href="{x}.html"{" class=bu" if x == t else ""}>{tarih_yaz(x)}</a>' for x in arsiv)}</nav></section>
+<section class="arsiv"><h3>Önceki sayılar</h3><p style="margin:0 0 8px">Listede olmayan gün: o gün sayı yayımlanmamış ya da özet üretilememiştir.</p><nav>{''.join(f'<a href="{x}.html"{" class=bu" if x == t else ""}>{tarih_yaz(x)}</a>' for x in arsiv)}</nav></section>
 <footer>Kod ve yöntem: <a href="https://github.com/birtohum/gazete-ozeti">github.com/birtohum/gazete-ozeti</a> · <a href="https://birtohum.github.io/">birtohum</a></footer>
 </div><script>{JS}</script></body></html>"""
 
