@@ -1,0 +1,12 @@
+[Unit]
+Description=Gazete Özeti günlük güncelleme
+After=network-online.target
+[Service]
+Type=oneshot
+User=ubuntu
+EnvironmentFile=/etc/yorum-demo.env
+Environment=GIT_SSH_COMMAND=ssh -i /home/ubuntu/.ssh/gazete_deploy -o IdentitiesOnly=yes
+ExecStart=/opt/gazete/sunucu/guncelle.sh
+Nice=10
+MemoryMax=1500M
+TimeoutStartSec=2h
