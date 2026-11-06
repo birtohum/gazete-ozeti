@@ -1,0 +1,425 @@
+{
+ "tarih": "20261025",
+ "sayi": "33411",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği eğitimi, sınavları ve mezuniyet kurallarını düzenliyor.",
+    "degisiklikler": [
+     {
+      "ne": "Diş hekimliği eğitimi beş yıl sürer.",
+      "dayanak": "Fakültede eğitim-öğretim süresi beş yıldır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Program en fazla sekiz yılda başarıyla bitirilmelidir.",
+      "dayanak": "lisans ve yüksek lisans derecesini birlikte veren programları azami sekiz yıl içinde başarı ile tamamlamak zorundadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bir dersten bile kalan öğrenci, zorunlu ortak dersler dışında üst sınıftan ders alamaz.",
+      "dayanak": " Öğrenci, kayıtlı olduğu yıla ait derslerin birinden dahi başarısız olursa ortak zorunlu ve ortak seçmeli dersler hariç bir üst sınıftan hiçbir ders alamaz",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Teorik derslerin %30'undan, uygulama ve laboratuvarların %20'sinden fazla devamsızlık yapan sınavlara giremez.",
+      "dayanak": "Teorik derslerin %30’undan; uygulamalı dersler, klinik uygulama dersleri ve laboratuvarların %20’sinden daha fazlasına katılmayan öğrenciler devamsız sayılırlar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başarılı olmak için yarıyıl veya bütünleme sınavından en az 50 puan almak gerekir.",
+      "dayanak": "Öğrencinin ara sınav not ortalaması ne olursa olsun başarılı sayılması için yarıyıl/yıl sonu veya bütünleme sınavından en az 50 puan alması gerekir.",
+      "alinti_benzerlik": 0.967,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mezuniyet için her dersten en az CC veya S ve genel ortalamanın en az 2,00 olması gerekir.",
+      "dayanak": "öğrencinin programdaki alması gereken ders ve klinik uygulama derslerini, her birinden en az CC ve/veya S notu alarak tamamlamış olması ve GNO’nun 2,00 veya üzerinde olması gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği Fakültesi öğrencileri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Hacettepe Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Hacettepe'de lisansüstü programlara giriş, ders, sınav ve süre kurallarını düzenliyor.",
+    "degisiklikler": [
+     {
+      "ne": "Bu kurallar Hacettepe'de yapılan lisansüstü eğitim, öğretim ve sınavların nasıl yürütüleceğini düzenler.",
+      "dayanak": "Bu Yönetmeliğin amacı; Hacettepe Üniversitesinde yürütülen lisansüstü eğitim-öğretim ve sınavlar ile ilgili usul ve esasları düzenlemektir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tezli ve tezsiz yüksek lisansa başvuruda ilgili puan türünde en az 55 ALES şartı istenir.",
+      "dayanak": "Başvurulan programın puan türünde, 55 puandan az olmamak üzere ana bilim dalı akademik kurullarının önerisi ve Senato kararıyla belirlenen asgari ALES puan şartını sağlamış olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tezli yüksek lisans en az 7 ders, toplam 21 ulusal kredi ve 120 AKTS'den oluşur.",
+      "dayanak": "Tezli yüksek lisans programı; toplam 21 ulusal kredi ve 120 AKTS kredisinden az olmamak koşuluyla, bilimsel araştırma teknikleri ve yayın etiği konularını içeren ders dahil en az yedi dersten oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tezli yüksek lisans normalde 4 yarıyıldır, en geç 6 yarıyılda bitirilmelidir.",
+      "dayanak": "her dönem için kayıt yaptırılıp yaptırılmadığına bakılmaksızın dört yarıyıl olup program en çok altı yarıyılda tamamlanır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eksik altyapıyı tamamlamak için açılan bilimsel hazırlık programı en çok 2 yarıyıl sürer.",
+      "dayanak": "Bilimsel hazırlık programının süresi en çok iki yarıyıldır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doğum yapan lisansüstü öğrencisi isterse doğum sonrası 2 dönem ek süre alabilir ve bu süre azami süreden sayılmaz.",
+      "dayanak": "Doğum yapan lisansüstü kadın öğrencilere talepleri halinde doğum sonrası iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Hacettepe lisansüstü adayları ve öğrencileri",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "TEBLİĞLER",
+   "baslik": "2026 Yılı Eylül Ayına Ait Dahilde İşleme İzin Belgelerinin (D1) Listesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 29,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Eylül 2026'da düzenlenen Dahilde İşleme İzin Belgelerinin listesi yayımlandı.",
+    "degisiklikler": [
+     {
+      "ne": "1-30 Eylül 2026 arasında düzenlenen D1 belgelerinin listesi yayımlandı.",
+      "dayanak": "1/9/2026 - 30/9/2026 TARİHLERİ ARASINDA DÜZENLENEN DAHİLDE İŞLEME İZİN BELGELERİNİN (D1) LİSTESİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Listede belge no, belge tarihi, firma unvanı, sektör ve öngörülen ihracat-ithalat tutarları yer alıyor.",
+      "dayanak": "SIRA | BELGE NO | BELGE TARİHİ | FİRMA ÜNVANI | ADRES | VERGİ DAİRESİ VERGİ NO | SEKTÖR | ÖNGÖRÜLEN İHRACAT ($) | ÖNGÖRÜLEN İTHALAT ($)",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Örneğin CFN Kimya'nın 01.09.2026 tarihli belgesi listede yer alıyor.",
+      "dayanak": "2026/D1-04407 | 01.09.2026 | CFN KİMYA SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Listede adı geçen firmalar ve ihracatla ilgilenenler",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "TEBLİĞLER",
+   "baslik": "2026 Yılı Eylül Ayına Ait Yurt İçi Satış ve Teslim Belgelerinin (D3) Listesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Eylül 2026'da düzenlenen 10 D3 belgesi firmalarıyla birlikte yayımlandı.",
+    "degisiklikler": [
+     {
+      "ne": "1-30 Eylül 2026 arasında düzenlenen D3 belgelerinin listesi yayımlandı.",
+      "dayanak": "1/9/2026 - 30/9/2026 TARİHLERİ ARASINDA DÜZENLENEN YURT İÇİ SATIŞ VE TESLİM BELGELERİNİN (D3) LİSTESİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "ASELSAN için 17.09.2026 tarihli 2026/D3-00088 belgesi listelendi.",
+      "dayanak": "2026/D3-00088 | 17.09.2026 | ASELSAN ELEKTRONİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "HİDROMEK için 22.09.2026 tarihli 2026/D3-00089 belgesi listelendi.",
+      "dayanak": "2026/D3-00089 | 22.09.2026 | HİDROMEK-HİDROLİK VE MEKANİK MAKİNA İMALAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "ELECTRAN METAL için 07.09.2026 tarihli 2026/D3-00086 belgesi listelendi.",
+      "dayanak": "2026/D3-00086 | 07.09.2026 | ELECTRAN METAL ENDÜSTRİ ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "CW ENERJİ için 28.09.2026 tarihli 2026/D3-00092 belgesi listelendi.",
+      "dayanak": "2026/D3-00092 | 28.09.2026 | CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "BKM BURSA KALIP için 04.09.2026 tarihli 2026/D3-00085 belgesi listelendi.",
+      "dayanak": "2026/D3-00085 | 04.09.2026 | BKM BURSA KALIP MERKEZİ METAL-FORM MAKİNE SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Listede adı geçen 10 firma",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "TEBLİĞLER",
+   "baslik": "2026 Yılı Eylül Ayına Ait Hariçte İşleme İzin Belgelerinin (H1) Listesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Ticaret Bakanlığı Eylül 2026'da düzenlenen bir hariçte işleme izin belgesini yayımladı.",
+    "degisiklikler": [
+     {
+      "ne": "1-30 Eylül 2026 arasında düzenlenen H1 belgelerinin listesi yayımlandı.",
+      "dayanak": "1/9/2026 - 30/9/2026 TARİHLERİ ARASINDA DÜZENLENEN HARİÇTE İŞLEME İZİN BELGELERİNİN (H1) LİSTESİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "BAYKAR MAKİNA'ya 30.09.2026 tarihli 2026/H1-00024 numaralı belge düzenlendi.",
+      "dayanak": "2026/H1-00024 | 30.09.2026 | BAYKAR MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Belgenin sektörü ve öngörülen ihracat-ithalat tutarları listede yazıldı.",
+      "dayanak": "30-Diğer ulaşım araçlarının imalatı | 125.383,40 | 297.855,60",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "BAYKAR MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "TEBLİĞLER",
+   "baslik": "2026 Yılı Eylül Ayına Ait Firma Talebine İstinaden İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Firma talebiyle Eylül 2026'da 21 dahilde işleme izin belgesi iptal edildi.",
+    "degisiklikler": [
+     {
+      "ne": "1-30 Eylül 2026 arasında firma talebiyle iptal edilen dahilde işleme izin belgeleri listelendi.",
+      "dayanak": "1/9/2026 - 30/9/2026 TARİHLERİ ARASINDA FİRMA TALEBİNE İSTİNADEN İPTAL EDİLEN DAHİLDE İŞLEME İZİN BELGELERİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "TÜZSAN TEKSTİL'in 03.09.2026 tarihli 2026/D1-04473 numaralı belgesi iptal edildi.",
+      "dayanak": "2026/D1-04473 | 03.09.2026 | TÜZSAN TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "NIVORA MOBİLYA'nın 04.12.2025 tarihli 2025/D1-06242 numaralı belgesi iptal edildi.",
+      "dayanak": "2025/D1-06242 | 04.12.2025 | NIVORA MOBİLYA TEKSTİL İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "TURTEKS TEKSTİL'in 05.02.2026 tarihli 2026/D1-00569 numaralı belgesi iptal edildi.",
+      "dayanak": "2026/D1-00569 | 05.02.2026 | TURTEKS TEKSTİL ETİKET SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "DURMAZ ÇELİK'in 08.04.2026 tarihli 2026/D1-01851 numaralı belgesi iptal edildi.",
+      "dayanak": "2026/D1-01851 | 08.04.2026 | DURMAZ ÇELİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "SAROZ İÇ VE DIŞ TİCARET'in 30.09.2025 tarihli 2025/D1-05105 numaralı belgesi iptal edildi.",
+      "dayanak": "2025/D1-05105 | 30.09.2025 | SAROZ İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Listede adları yazan 21 firma",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "TEBLİĞLER",
+   "baslik": "2026 Yılı Eylül Ayına Ait Resen İptal Edilen Dahilde İşleme İzin Belgeleri Listesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261025-7.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "1-30 Eylül 2026 arasında resen iptal edilen 7 dahilde işleme izin belgesi listelendi.",
+    "degisiklikler": [
+     {
+      "ne": "TOPRAK BAKLİYAT DIŞ TİCARET LİMİTED ŞİRKETİ'nin 2026/01-04516 numaralı belgesi iptal edildi.",
+      "dayanak": "1 | 2026/01-04516 | 04.09.2026 | TOPRAK BAKLİYAT DIŞ TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "TUNAHAN ÖRGÜ VE BOYAMA TEKSTİL SANAYİ TİCARET ANONİM ŞİRKETİ'nin 2025/01-03527 numaralı belgesi iptal edildi.",
+      "dayanak": "2 | 2025/01-03527 | 16.07.2025 | TUNAHAN ÖRGÜ VE BOYAMA TEKSTİL SANAYİ TİCARET ANONİM ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "KAMEX TEKSTİL İNŞAAT NAKLİYE SANAYİ TİCARET LİMİTED ŞİRKETİ'nin 2026/01-00886 numaralı belgesi iptal edildi.",
+      "dayanak": "3 | 2026/01-00886 | 19.02.2026 | KAMEX TEKSTİL İNŞAAT NAKLİYE SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "KOZMOS TEKSTİL VE GERİ DÖNÜŞÜM SANAYİ TİCARET LİMİTED ŞİRKETİ'nin 2024/01-01501 numaralı belgesi iptal edildi.",
+      "dayanak": "4 | 2024/01-01501 | 19.03.2024 | KOZMOS TEKSTİL VE GERİ DÖNÜŞÜM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "NATIONAL HALI SANAYİ VE TİCARET LİMİTED ŞİRKETİ'nin 2026/01-02127 numaralı belgesi iptal edildi.",
+      "dayanak": "5 | 2026/01-02127 | 21.04.2026 | NATIONAL HALI SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "HALCON LOJİSTİK TEKSTİL SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ'nin 2026/01-03204 numaralı belgesi iptal edildi.",
+      "dayanak": "6 | 2026/01-03204 | 23.06.2026 | HALCON LOJİSTİK TEKSTİL SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Listede adı geçen firmalar",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}

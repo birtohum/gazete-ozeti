@@ -1,0 +1,113 @@
+{
+ "tarih": "20261026",
+ "sayi": "33412",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bingöl Üniversitesi Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Bingöl Üniversitesi Biyoteknoloji Merkezi yönetmeliği kaldırıldı, bu kaldırma yayım tarihinde yürürlüğe girdi.",
+    "degisiklikler": [
+     {
+      "ne": "12/1/2011 tarihli Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "12/1/2011 tarihli ve 27813 sayılı Resmî Gazete’de yayımlanan Bingöl Üniversitesi Biyoteknoloji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu kaldırma düzenlemesi yayımı tarihinde yürürlüğe girer.",
+      "dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu düzenlemeyi Bingöl Üniversitesi Rektörü yürütür.",
+      "dayanak": "Bu Yönetmelik hükümlerini Bingöl Üniversitesi Rektörü yürütür.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bingöl Üniversitesi",
+    "yururluk": "yayımı tarihinde yürürlüğe girer",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bingöl Üniversitesi Proje Koordinasyon Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Bingöl Üniversitesi Proje Koordinasyon Merkezi yönetmeliği kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "2012 tarihli Proje Koordinasyon Uygulama ve Araştırma Merkezi yönetmeliği kaldırıldı.",
+      "dayanak": "Bingöl Üniversitesi Proje Koordinasyon Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bingöl Üniversitesi ve merkezle ilgili kişiler",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Merkezi yönetmeliği yürürlükten kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "18 Mayıs 2020 tarihli Merkez yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "18/5/2020 tarihli ve 31131 sayılı Resmî Gazete’de yayımlanan Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bingöl Üniversitesi",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}

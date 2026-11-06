@@ -1,0 +1,434 @@
+{
+ "tarih": "20261027",
+ "sayi": "33413",
+ "maddeler": [
+  {
+   "no": 0,
+   "bolum": "KANUN",
+   "baslik": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "finans-banka",
+     "hukuk-yargi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "17 Eylül 2026 kararlarıyla tasfiyesine karar verilen fonların tasfiyesi, geri kazanımı ve ödemeleri düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Kanun yalnızca 17/9/2026 kararlarıyla tasfiyesine karar verilen ve yayım günü tasfiyesi bitmemiş fonlar için geçerlidir.",
+      "dayanak": "Sermaye Piyasası Kurulunun 17/9/2026 tarihli kararları ile tasfiyesine karar verilen yatırım fonlarından bu Kanunun yayımı tarihinde tasfiyesi tamamlanmamış olanların adil, şeffaf ve etkin şekilde tasfiyesine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Fon pay sahibi olup ödeme alacak kişiler MKK kayıtlarıyla mutabakat yapılarak belirlenir.",
+      "dayanak": "Fon pay sahipliği, tasfiye ile görevli kuruluşlar tarafından MKK kayıtları ile mutabakat sağlanmak suretiyle fon ve hesap bazında tespit edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kanunda sayılan suç fiillerini işlediği veya birlikte hareket ettiği tespit edilen kişi ve kurumlara tasfiyeden ödeme yapılmaz.",
+      "dayanak": "bunlarla birlikte hareket ettiği Kurulca tespit edilen kişi ve kurumlara, Kurulun 17/9/2026 tarihli kararları uyarınca tasfiyesine karar verilen fonların tasfiye ve geri kazanım hesabından ödeme yapılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Şartları varsa yatırımcılara en fazla 1.000.000 liraya kadar ara ödeme yapılabilir.",
+      "dayanak": "net yatırım tutarı 1.000.000 Türk lirasının altında olan yatırımcılar için bu tutarda, 1.000.000 Türk lirası ve üzerinde olan yatırımcılar için ise en fazla 1.000.000 Türk lirası ara ödeme yapılabilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Fon zararından önce kurucu veya yönetici portföy yönetim şirketi sorumludur.",
+      "dayanak": "Zarar veya kayıptan öncelikle fonun kurucusu ve/veya yöneticisi olan portföy yönetim şirketi sorumludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Geri kazanım hesabındaki para yalnız tasfiye ödemesinde kullanılır, teminat yapılamaz ve haczedilemez.",
+      "dayanak": "Geri kazanım hesabında bulunan tutarlar yalnızca ilgili fonun tasfiyesi ve fon pay sahiplerine yapılacak ödemeler için kullanılabilir; başka bir amaçla kullanılamaz, teminat gösterilemez ve kamu alacakları için olsa dahi haczedilemez",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Tasfiyesine karar verilen fonların pay sahipleri ve sorumlular",
+    "yururluk": "17/9/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Kanun 17/9/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Akademi lisansüstü yönetmeliğinin adı değişti, başvuru ve kabul koşulları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "Yönetmeliğin adı Lisansüstü Enstitüleri adı ile değiştirildi.",
+      "dayanak": "Jandarma ve Sahil Güvenlik Akademisi Lisansüstü Enstitüleri Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim ve Öğretim Yönetmeliği",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetmelik Jandarma Yüksek Sevk ve İdare Enstitüsünü kapsamıyor.",
+      "dayanak": "Bu Yönetmelik, Jandarma Yüksek Sevk ve İdare Enstitüsünü kapsamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvurular internet üzerinden elektronik ortamda da yapılabiliyor.",
+      "dayanak": "Başvurular, internet üzerinden elektronik ortamda da yapılabilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "ALES puanı yerine GRE, GMAT veya YÖK'ün ALES'e eşdeğer kabul ettiği sınav puanı kabul ediliyor.",
+      "dayanak": "a) ALES puanı yerine, GRE ve GMAT sınavlarından veya başvuru yapılan enstitü tarafından başvuru kılavuzu ile ilan edilen YÖK tarafından ALES’e eşdeğer kabul edilen diğer",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tezli yüksek lisans sıralamasında ALES %50, yabancı dil %10, lisans ortalaması %10, değerlendirme sınavı %30 sayılıyor.",
+      "dayanak": "ALES puanının %50’si, yabancı dil sınavı puanının %10’u, lisans not ortalamasının %10’u ve açılan yüksek lisans programı alanında yapılan değerlendirme sınavı sonucunun %30’u dikkate alınarak",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doktora başvurusunda yüksek lisans not ortalaması şartı aranıyor.",
+      "dayanak": "enstitü kurulunun teklifi ve Senatonun onayı ile belirlenen yüksek lisans not ortalamasına sahip olması gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Akademi enstitülerine başvuracak lisansüstü adayları ve enstitü çalışanları",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "diger"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Turizm amaçlı konut kiralama izin belgesinde eksikliğe otuz gün süre, giderilmezse iptal getirildi.",
+    "degisiklikler": [
+     {
+      "ne": "Belgelendirme evraklarında eksiklik, uygun olmayan evrak veya bilgi ve belgelerde değişiklik tespit edilirse belge sahibine eksikleri gidermesi için otuz gün süre verilir, süre sonunda giderilmezse izin belgesi iptal edilir.",
+      "dayanak": "belge sahibine eksikliklerini giderebilmesi için otuz gün süre verilir. Bu süre sonunda eksikliklerinin giderilmediğinin tespiti halinde izin belgesi iptal edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Turizm amaçlı konut kiralama izin belgesi sahipleri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Kültür ve Turizm Bakanlığına Yapılacak Başvurular ile Sunulacak Hizmetler Karşılığı Alınacak Bedellere İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "diger"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Kültür varlıkları için Bakanlığa yapılan başvurularda alınacak hizmet bedellerinin ödeme ve uygulama kuralları belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Hizmet bedeli, başvuru işleme alınmadan önce peşin alınır.",
+      "dayanak": "Hizmet bedeli, başvurunun işleme alınmasından önce Bakanlıkça peşin olarak tahsil edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Hizmet bedelleri her yıl yeniden değerleme oranında artırılır.",
+      "dayanak": "bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (B) fıkrası uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılarak uygulanır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kamu taşınmazlarıyla ilgili görüşler ve kamu kurumlarının kendi hazırladığı plan ve proje işlerinden ücret alınmaz.",
+      "dayanak": "Kamu kurumlarının mülkiyetindeki taşınmazlarla ilgili görüş talepleri ile kamu kurum ve kuruluşlarınca kendi bünyelerinde hazırlanan her türlü plan, proje, yapım ve benzeri işler için ücret alınmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvuru geri çekilirse, vazgeçilirse veya uygun bulunmazsa ödenen ücret iade edilmez.",
+      "dayanak": "başvurunun geri çekilmesi, vazgeçilmesi veya başvurunun Bakanlık ilgili birimi tarafından uygun bulunmaması halinde alınan ücret tarifesinde belirlenen hizmet bedeli iade edilmez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ücret ödendikten sonra altı ay içinde ilgili birime başvuru yapılması zorunludur.",
+      "dayanak": "hizmet bedelinin tahsil edildiği tarihten itibaren altı ay içinde başvuru sahibi tarafından Bakanlığın ilgili birimine müracaat edilmesi zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Belirlenen hizmet bedellerine KDV ayrıca eklenir.",
+      "dayanak": "Ücret tarifesinde belirtilen hizmet bedellerine yürürlükteki vergi mevzuatına göre hesaplanan katma değer vergisi ayrıca eklenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Kültür varlıklarıyla ilgili Bakanlığa başvuran kişi ve şirketler",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "saglik-ilac"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "Tıbbi müdahale öncesi rıza artık e-Nabız veya hastane cihazı üzerinden SMS koduyla elektronik alınabilecek.",
+    "degisiklikler": [
+     {
+      "ne": "Bu elektronik rıza kuralları 1., 2. ve 3. basamak sağlık tesislerinde geçerli.",
+      "dayanak": "Bu Yönetmelik; birinci, ikinci ve üçüncü basamak sağlık tesislerini kapsar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Rıza e-Nabız üzerinden veya sağlık tesisinin elektronik haberleşme aracıyla alınır.",
+      "dayanak": "Hastanın bilgilendirilmiş rızası e-Nabız üzerinden veya sağlık tesisinin elektronik haberleşme aracı vasıtasıyla alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Elektronik rıza için hastanın doğrulanmış cep telefonu numarası olması şart.",
+      "dayanak": "Bilgilendirilmiş rızanın elektronik ortamda alınabilmesi için hastanın doğrulanmış cep telefonu numarasının bulunması gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kimlik doğrulama bitmeden elektronik rıza süreci başlatılamaz.",
+      "dayanak": "Kimlik doğrulama süreci başarıyla tamamlanmadan bilgilendirilmiş rızanın elektronik ortamda alınması süreci başlatılamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "SMS ile gelen tek kullanımlık kodla doğrulama yapılınca rıza alınmış sayılır.",
+      "dayanak": "Hastanın bilgilendirilmiş rızası yedinci fıkrada belirlenen doğrulama işleminin gerçekleştirilmesi ile alınmış sayılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Temsilci yoksa, hazır değilse veya elektronik doğrulanamıyorsa küçük veya kısıtlı için elektronik rıza alınamaz.",
+      "dayanak": "Küçük veya kısıtlının kanuni temsilcisinin olmadığı veya hazır bulunamadığı yahut elektronik ortamda doğrulanamadığı durumlarda bilgilendirilmiş rıza elektronik olarak alınamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Rıza verecek hastalar, kanuni temsilciler, sağlık tesisleri ve sağlık meslek mensupları.",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Tersane, Tekne İmal ve Çekek Yeri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-5.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "ulastirma"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Tersane, tekne imal ve çekek yerlerinin işletme izinleri, denetimleri ve kayıt kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "İşletme izni belgesi en fazla beş yıl için verilecek ve bu sürede tesis en az bir kez denetlenecek.",
+      "dayanak": "(3) İşletme izni belgesi en fazla beş yıla kadar verilir. Bu süre içerisinde İdarece kurulacak İTDK marifetiyle tesis en az bir kere denetlenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Devir veya kiralama sonrası yeni işletmeci başvuracak, şartları sağlarsa bir defaya mahsus iki yıl geçerli kısmi işletme izni verilecek.",
+      "dayanak": "İTDK tarafından yapılacak denetim neticesinde bu Yönetmelik gereklerinin karşılandığının tespit edildiği hallerde tesis için bir defaya mahsus olmak üzere iki yıl geçerli kısmi işletme izni belgesi düzenlenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tesis işleticisi inşa, bakım-onarım, tadilat ve çekek bilgilerini GSVP’ye kaydedecek, kaydı askıda olan tesis giriş yapamayacak.",
+      "dayanak": "Tesis işleticisi, tesisinde gerçekleşecek gemi ve su araçlarının inşası, bakım-onarım ve tadilatı ile çekek faaliyetleriyle ilgili bilgileri GSVP’ye kaydeder. Tesis işleticisi GSVP kaydı askıya alınan tesisi için bilgi girişi yapamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Süre sonunda eksiklik giderilmezse GSVP kaydı askıya alınacak, sebep kalkınca başvuruyla faal hale getirilecek.",
+      "dayanak": "Verilen süre sonunda, belirlenen uygunsuzluk veya eksikliğin giderilmemesi durumunda GSVP kaydı askıya alınır. Askıya alınma sebebinin ortadan kalkması sonrası yapılacak müracaat İdarece değerlendirilerek tesisin GSVP kaydı faal duruma getirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başvuruya dolgu ve kıyı yapılarının projeye uygun tamamlandığına veya vaziyet planlarının onaylandığına dair Bakanlık yazısı eklenecek.",
+      "dayanak": "g) Dolgu ve kıyı yapılarının uygulama projelerine uygun olarak tamamlandığına veya mevcut yapılar için vaziyet planlarının onaylandığına dair Ulaştırma ve Altyapı Bakanlığı Altyapı Yatırımları Genel Müdürlüğünün yazısı.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski OHSAS 18001 İş Sağlığı ve Güvenliği Yönetim Sistemi Belgesi yerine yeni TS EN ISO 45001 belgesi istendi.",
+      "dayanak": "“OHSAS 18001 İş Sağlığı ve Güvenliği Yönetim Sistemi Belgesinin” ibaresi “TS EN ISO 45001 İş Sağlığı ve Güvenliği Yönetim Sistemi Belgesinin” şeklinde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Tersane, tekne imal ve çekek yeri işleticileri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": "M1-1",
+   "bolum": "CUMHURBAŞKANI KARARI",
+   "baslik": "2027 Yılı Cumhurbaşkanlığı Yıllık Programının Onaylanması Hakkında Karar (Karar Sayısı: 11934)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027M1-1.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 451,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "diger"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı onaylandı ve ekonomik hedefler açıklandı.",
+    "degisiklikler": [
+     {
+      "ne": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı onaylandı.",
+      "dayanak": "Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığınca hazırlanan ekli “2027 Yılı Cumhurbaşkanlığı Yıllık Programı”nın onaylanmasına karar verilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2027 için ekonomi büyüme hedefi yüzde 4,2 olarak yazıldı.",
+      "dayanak": "2027 yılında, Orta Vadeli Program (2027-2029) çerçevesinde Türkiye ekonomisinin yüzde 4,2 oranında büyümesi öngörülmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2026 sonu enflasyon beklentisi yüzde 28,4 olarak yazıldı.",
+      "dayanak": "Bu çerçevede TÜFE yıllık artış oranının 2026 yılı sonunda OVP tahminiyle uyumlu olarak yüzde 28,4 seviyesinde gerçekleşmesi öngörülmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2026 geneli işsizlik oranı beklentisi yüzde 8,1 olarak yazıldı.",
+      "dayanak": "2026 yılı geneli işsizlik oranının yüzde 8,1 olması beklenmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2026 ihracatı beklentisi 282 milyar dolar olarak yazıldı.",
+      "dayanak": "İhracatın 2026 yılının tamamında yüzde 3,2 artışla 282 milyar dolar seviyesinde gerçekleşmesi beklenmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2026 sonu cari açık beklentisi 47,5 milyar dolar olarak yazıldı.",
+      "dayanak": "Enerji ithalatındaki artışın etkisiyle cari işlemler açığının 2026 yılı sonunda 47,5 milyar dolar düzeyinde gerçekleşeceği ve GSYH'ya oranının yüzde 2,6 olacağı tahmin edilmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Genel ekonomi, kamu kurumları ve vatandaşlar",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  }
+ ]
+}

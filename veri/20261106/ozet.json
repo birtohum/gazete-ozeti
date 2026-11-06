@@ -1,0 +1,378 @@
+{
+ "tarih": "20261106",
+ "sayi": "33422",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "ticaret-sirket"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Organize sanayi bölgelerinde tahsis, ön tahsis, kiralama ve üst hakkı kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "İş yeri açma ve çalışma ruhsatları çevrim içi sistemde elektronik ortamda imzalanmak zorundadır.",
+      "dayanak": "İş yeri açma ve çalışma ruhsatlarının çevrim içi sistemde elektronik ortamda imzalanması zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bakanlık onayı olmadan toplam %49'u aşan ortaklık payı değişikliği yapılırsa ön tahsis veya arsa tahsisi iptal edilir.",
+      "dayanak": "Bakanlık onayı alınmadan toplam %49’unu aşan ortaklık payı değişikliği yapılması halinde ön tahsis veya arsa tahsisi iptal edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ön tahsis devri için Bakanlık izni olmadan şirket hissesi devredildiği tespit edilirse ön tahsis iptal edilir.",
+      "dayanak": "Ön tahsis devri amacıyla Bakanlık izni alınmaksızın şirket hisselerinin devrinin yapıldığının tespit edilmesi halinde ön tahsis iptal edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tahsis yöntemi kura olarak belirlenmiş olsa bile önceliğin uygulanabilmesi için ihale yapılması zorunludur.",
+      "dayanak": "Tahsis yöntemi olarak kura belirlenmiş olsa dahi, söz konusu önceliğin uygulanabilmesi için ihale yapılması zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tahsisi iptal edilen parsel, tahsis ilanına çıkılmadan Bakanlık onayı şartıyla aynı katılımcıya güncel bedelden yeniden tahsis edilebilir.",
+      "dayanak": "tahsisi iptal edilen parsel, tahsis ilanına çıkılmadan, Bakanlık onayı alınması şartıyla yeniden aynı katılımcıya güncel bedelden tahsis edilebilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kurulan üst hakkı tapu kütüğünün ayrı bir sayfasına taşınmaz olarak kaydedilmez ve devredilemez.",
+      "dayanak": "Bu şekilde tesis edilen üst hakkı, tapu kütüğünün ayrı bir sayfasına taşınmaz olarak kaydedilmez ve devredilemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "OSB katılımcıları, parsel tahsisi alan şirketler ve kiracılar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "İnönü Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "İnönü Üniversitesinde Türkçe öğretim merkezi kuruldu, amaçları ve yönetimi düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Merkezin amacı Türkçe öğretimine yönelik kurs ve sınavlar düzenlemek olarak belirlendi.",
+      "dayanak": "Türkiye Türkçesinin öğretimine yönelik kurslar, kongreler, konferanslar, seminerler ve benzeri etkinlikler düzenlemek, sınavlar gerçekleştirmek.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez yurt içinde ve dışında şube açıp yabancılara ve isteyenlere Türkçe öğretebilecek.",
+      "dayanak": "yurt içinde ve yurt dışında şubeler açarak yabancılara, yurt dışında yaşayan veya Türkiye’ye dönen Türk vatandaşlarına",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez öğrencilere ölçme değerlendirme yapıp dil yeterlik belgesi verebilecek.",
+      "dayanak": "Yurt içinde ve yurt dışında öğrencilere yönelik ölçme değerlendirme faaliyetleri planlamak, uygulamak ve dil yeterlik belgesi vermek.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, Rektör tarafından öğretim üyeleri arasından 3 yıllığına görevlendirilecek.",
+      "dayanak": "Müdür, Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektör tarafından üç yıllık süre için görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2011 tarihli eski Dil Eğitimi Merkezi Yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "30/3/2011 tarihli ve 27890 sayılı Resmî Gazete’de yayımlanan İnönü Üniversitesi Dil Eğitimi Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Türkçe öğrenmek isteyenler, İnönü Üniversitesi personeli ve öğrencileri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "KURUL KARARI",
+   "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 04/11/2026 Tarihli ve 11593 Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "finans-banka"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Golden Global Yatırım Bankası A.Ş.'nin faaliyet izni kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Golden Global Yatırım Bankası A.Ş.'nin faaliyet izni kaldırıldı.",
+      "dayanak": "Golden Global Yatırım Bankası A.Ş.'nin faaliyet izninin 5411 sayılı Bankacılık Kanununun 71 inci maddesinin birinci fıkrasının (c) bendi çerçevesinde kaldırılmasına",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Golden Global Yatırım Bankası A.Ş.",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2026/23, K: 2026/162 Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 20,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Anayasa Mahkemesi ön alım bedelinin rayiç bedel olmasına ilişkin kuralı iptal etti.",
+    "degisiklikler": [
+     {
+      "ne": "Ön alım davasında payın rayiç bedelinin esas alınmasını öngören ibare Anayasa'ya aykırı bulunarak iptal edildi.",
+      "dayanak": "“...rayiç bedeli...” ibaresinin Anayasa’ya aykırı olduğuna ve İPTALİNE",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Aynı cümledeki gecikmeksizin ibaresi uygulanma imkanı kalmadığı için iptal edildi.",
+      "dayanak": "“...gecikmeksizin...” ibaresinin 6216 sayılı Kanun’un 43. maddesinin (4) numaralı fıkrası gereğince İPTALİNE",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İkinci cümledeki kesin süre ibaresi uygulanma imkanı kalmadığı için iptal edildi.",
+      "dayanak": "İkinci cümlesinde yer alan “...kesin süre...” ibaresinin 6216 sayılı Kanun’un 43. maddesinin (4) numaralı fıkrası gereğince İPTALİNE",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "734. maddenin değiştirilen ikinci fıkrasının kalan kısmı da iptal edildi.",
+      "dayanak": "3. Kalan kısmının 6216 sayılı Kanun’un 43. maddesinin (4) numaralı fıkrası gereğince İPTALİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Değişikliğin daha önce açılmış davalara da uygulanmasını öngören geçici kural iptal edildi.",
+      "dayanak": "B. Türk Medeni Kanunu’na 7571 sayılı Kanun’un 37. maddesiyle eklenen geçici 1. maddenin (2) numaralı fıkrasının 6216 sayılı Kanun’un 43. maddesinin (4) numaralı fıkrası gereğince İPTALİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Paylı taşınmazda ön alım davası olan paydaşlar ve alıcılar",
+    "yururluk": "KARARIN RESMİ GAZETE’DE YAYIMLANMASINDAN BAŞLAYARAK DOKUZ AY SONRA YÜRÜRLÜĞE GİRMESİNE",
+    "yururluk_dayanak": "KARARIN RESMİ GAZETE’DE YAYIMLANMASINDAN BAŞLAYARAK DOKUZ AY SONRA YÜRÜRLÜĞE GİRMESİNE OYBİRLİĞİYLE,",
+    "eksik_okuma": true,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/29667 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 18,
+    "okunan": 18
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Anayasa Mahkemesi, yeniden yargılama talebinin reddedilmesi nedeniyle ifade özgürlüğünün ihlal edildiğine ve yeniden yargılama yapılmasına karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvuru incelenebilir bulundu, kabul edilebilir olduğuna karar verildi.",
+      "dayanak": "Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan başvurunun kabul edilebilir olduğuna karar verilmesi gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Anayasa'nın 26. maddesindeki ifade özgürlüğünün ihlal edildiğine karar verildi.",
+      "dayanak": "Anayasa'nın 26. maddesinde güvence altına alınan ifade özgürlüğünün İHLAL EDİLDİĞİNE",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İhlalin giderilmesi için yeniden yargılama yapılmak üzere karar Mersin 4. Ağır Ceza Mahkemesine gönderildi.",
+      "dayanak": "Kararın bir örneğinin ifade özgürlüğünün ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Mersin 4. Ağır Ceza Mahkemesine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yeniden yargılama yeterli görüldüğü için tazminat istemi reddedildi.",
+      "dayanak": "Başvurucuların tazminat talebinin REDDİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Harç ve vekalet ücretinden oluşan yargılama giderinin başvuruculara ödenmesine karar verildi.",
+      "dayanak": "487,60 TL harç ve 40.000 TL vekâlet ücretinden oluşan toplam 40.487,60 TL yargılama giderinin başvuruculara MÜŞTEREKEN ÖDENMESİNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucular Ali Buluş, Bayram Parlak, Mehmet Karaaslan",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2022/103359 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-6.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 21,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Mahkeme gözaltı süresi aşılmadığı gerekçesiyle hak ihlali olmadığına karar verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Başvuru, gözaltı süresinin aşıldığı iddiasıyla yapıldı.",
+      "dayanak": "Başvuru, kanuni gözaltı süresinin aşılması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği iddiasına ilişkindir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mahkeme önce şikayeti incelenebilir buldu.",
+      "dayanak": "Kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA OYBİRLİĞİYLE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Sonuçta hak ihlali olmadığına karar verildi.",
+      "dayanak": "Anayasa'nın 19. maddesinin -beşinci fıkrasıyla bağlantılı olarak- dokuzuncu fıkrası bağlamındaki kişi hürriyeti ve güvenliği hakkının İHLAL EDİLMEDİĞİNE",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu suç için yol süresi dahil toplam gözaltının en fazla 4 gün 12 saat olabileceği belirtildi.",
+      "dayanak": "Buna göre yol süresi dâhil toplam gözaltı süresinin azami 4 gün 12 saat olabileceği anlaşılmaktadır",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Rıdvan Akbaş",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "KARARLARI",
+   "baslik": "Anayasa Mahkemesinin 11/6/2026 Tarihli ve 2019/18263 Başvuru Numaralı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261106-7.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 6,
+    "okunan": 6
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Anayasa Mahkemesi, ifade tutanağı talebini mahkemeden açıkça istemeyen başvurucunun başvurusunu kabul edilemez buldu.",
+    "degisiklikler": [
+     {
+      "ne": "Mahkeme, başvuru yolları tüketilmediği için başvuruyu kabul edilemez buldu.",
+      "dayanak": "Başvurunun başvuru yollarının tüketilmemesi nedeniyle KABUL EDİLEMEZ OLDUĞUNA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mahkeme, adli yardım isteğini kabul etti.",
+      "dayanak": "A. Adli yardım talebinin KABULÜNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mahkeme, başvurucuyu yargılama giderlerini ödemekten tamamen muaf tuttu.",
+      "dayanak": "adli yardım talebi kabul edilen başvurucunun yargılama giderlerini ödemekten TAMAMEN MUAF TUTULMASINA",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Başvurucu Enver Gül",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}
