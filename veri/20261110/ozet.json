@@ -1,0 +1,464 @@
+{
+ "tarih": "20261110",
+ "sayi": "33426",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "HÂKİMLER VE SAVCILAR KURULU KARARLARI",
+   "baslik": "Hâkimler ve Savcılar Kuruluna Ait Kararlar",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-1.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 29,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "HSK, Ağustos 2026 sonuna kadar süresini dolduran hakim ve savcıların yükseltilme listelerini yayımladı.",
+    "degisiklikler": [
+     {
+      "ne": "Süresini dolduran hakim ve savcıların yükseltilme defterleri yayımlandı.",
+      "dayanak": "2026 Ağustos dönemi sonuna kadar sürelerini bitirip, Hâkimler ve Savcılar Kurulunca yükseltilmelerine karar verilen",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bazı adli yargı hakimleri 2. derecede mümtazen yükseldi.",
+      "dayanak": "2'nci derecede mümtazen yükselmeye lâyık olan;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bazı hakimler 2. derecede terfihan yükseldi.",
+      "dayanak": "2'nci derecede terfihan yükselmesine lâyık olan;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bazı hakimler 3. derecede mümtazen yükseldi.",
+      "dayanak": "3'üncü derecede mümtazen yükselmeye layık olan;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bazı hakimler 4. derecede mümtazen yükseldi.",
+      "dayanak": "4'üncü derecede mümtazen yükselmeye lâyık olan;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bazı hakimler 5. derecede mümtazen yükseldi.",
+      "dayanak": "5'inci derecede mümtazen yükselmeye lâyık olan;",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Listede adı geçen hakim ve savcılar",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Gençlik ve Spor Bakanlığı Yurt Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "GSB yurtlarında kayıt dondurma, giriş takibi, elektronik tebligat ve disiplin cezaları yeniden düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Okulda kayıt dondurulan süre yurtta kalma süresine eklenir ve kaydı dondurup dönen öğrenci yurda öncelikli yerleştirilir.",
+      "dayanak": "(12) Normal eğitim süresi içinde öğretim kurumunda kayıt dondurulan süreler öğrencilerin yurtta barınma sürelerine eklenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Belirlenen saate kadar yurda giriş yapmadığı tespit edilen ve kendisine ulaşılamayan öğrencinin durumu velisine veya bildirdiği irtibat kişisine sistem üzerinden iletilir.",
+      "dayanak": "reşit olmayan öğrencinin velisine, reşit olan öğrencinin ise öğrenci tarafından bildirilen irtibat kişisine Bakanlık bilişim sistemi üzerinden iletilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Uyarma, kınama ve yurttan çıkarma cezalarına ilişkin tüm işlemler Bakanlık bilişim sistemi üzerinden yürütülüp kaydedilir.",
+      "dayanak": "Uyarma cezasına ilişkin tüm işlemler Bakanlık bilişim sistemi üzerinden yürütülür ve kayıt altına alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Disiplin cezasına itiraz süresi fiziki tebligatta on gün, elektronik tebligatta beş gündür.",
+      "dayanak": "Öğrenci, cezanın fiziki olarak tebliğ edildiği tarihten itibaren on gün, elektronik ortamda tebliğ edildiği tarihten itibaren beş gün içerisinde hakkında tesis edilen disiplin cezasına itiraz edebilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Disiplin tebligatı imza karşılığı veya UETS ile yapılır; elektronik tebligat adrese ulaştıktan sonraki beşinci gün sonunda yapılmış sayılır.",
+      "dayanak": "Öğrenciye elektronik yolla yapılan tebligatta öğrencinin elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda tebligat yapılmış sayılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Cinsel dokunulmazlığa karşı fiiller, özel hayat görüntü/ses/verilerini hukuka aykırı kaydetme-yayma ve bilişim sisteminde usulsüz işlemler yurttan çıkarma nedenlerine eklendi.",
+      "dayanak": "ö) Cinsel dokunulmazlığa karşı fiillerde bulunmak, cinsel taciz, cinsel saldırı veya kişilerin mahremiyetini ihlal eden davranışlar gerçekleştirmek.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "GSB yurtlarında kalan öğrenciler ve veliler",
+    "yururluk": "yayımı tarihinde yürürlüğe girer",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "İller Bankası Anonim Şirketi İnsan Kaynakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "kamu-personeli"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "İller Bankası personelinin doğum izni, yarı zamanlı çalışma, atama ve disiplin kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "Doğum yapacak personele doğumdan önce 8 hafta ve doğumdan sonra 16 hafta olmak üzere toplam 24 hafta ücretli doğum izni verilecek.",
+      "dayanak": "Doğum yapacak personele doğum yapmasından önce sekiz hafta ve doğum yaptığı tarihten itibaren on altı hafta olmak üzere toplam yirmi dört hafta süre ile ücretli doğum izni verilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doğum yapan personel, çocuk ilkokul çağına başlayana kadar haftada yarı zamanlı çalışmayı isteyebilecek.",
+      "dayanak": "ayrıca süt izni verilmeksizin haftalık çalışma saatlerinin normal çalışma süresinin yarısı olarak düzenlenmesini talep edebilirler.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kadın personel doğum izninden sonra ilk doğumda 2 ay, ikinci doğumda 4 ay, sonrakilerde 6 ay günde yarı süre çalışabilecek.",
+      "dayanak": "birinci doğumda iki ay, ikinci doğumda dört ay, sonraki doğumlarda ise altı ay süreyle günlük çalışma süresinin yarısı kadar çalışabilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bankaya atanacaklardan kimlik, adli sicil, öğrenim, sağlık, askerlik ve hizmet belgeleri istenecek.",
+      "dayanak": "Ataması yapılacaklardan aşağıdaki belgeler istenir:",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başka göreve atananlar aynı ilde ertesi iş günü, başka ilde en geç beş iş günü içinde yeni görevine başlayacak.",
+      "dayanak": "görev yeri aynı il sınırları içinde ise atama onayının tebliğini izleyen iş günü, başka il sınırları içinde ise tebliğ tarihinden itibaren en geç beş iş günü sonunda",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Uyarma ve kınama cezaları 5 yıl, ücretten kesme ve ücret artışı engelleme cezaları 10 yıl sonra dosyadan silinecek.",
+      "dayanak": "uyarma ve kınama cezaları uygulandığı tarihten itibaren beş yıl, ücretten kesme ve yıllık ücret artışından yararlandırılmama cezaları ise uygulandığı tarihten itibaren on yıl sonra",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "İller Bankası personeli",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Türkiye Sağlık Enstitüleri Başkanlığı Bünyesinde Oluşturulacak Bilim Kurulları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "saglik-ilac",
+     "kamu-personeli"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "TÜSEB bilim kurullarının amacı yeniden tanımlandı ve üyelere yapılacak ödemelere ilişkin kurallar değiştirildi.",
+    "degisiklikler": [
+     {
+      "ne": "Yönetmeliğin amacı, TÜSEB enstitülerindeki bilim kurullarında görev alacak kişilerin nitelikleri, görevlendirme usulleri ve sürelerine ilişkin kuralları belirlemek olarak yeniden yazıldı.",
+      "dayanak": "Türkiye Sağlık Enstitüleri Başkanlığı bünyesindeki enstitülerde oluşturulacak bilim kurullarında görev alacak kişilerin niteliklerine, görevlendirilme usullerine ve sürelerine ilişkin usul ve esasların belirlenmesidir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "6 ncı maddenin birinci ve yedinci fıkraları yürürlükten kaldırıldı.",
+      "dayanak": "Aynı Yönetmeliğin 6 ncı maddesinin birinci ve yedinci fıkraları yürürlükten kaldırılmış",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Toplantıya bağlı yerinde incelemeler birim faaliyet sayılmayacak ve bu incelemeler için üyelere ödeme yapılmayacak.",
+      "dayanak": "Bir toplantıya bağlı olarak, kurul üyelerince mahallinde yapılan incelemeler, birim faaliyet sayılmaz ve kurul üyelerine herhangi bir ödeme yapılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kurul üyelerinin yol ve konaklama giderleri Harcırah Kanunu kapsamında Başkanlıkça karşılanacak.",
+      "dayanak": "Kurul üyelerinin yol ve konaklama giderleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu kapsamında Başkanlıkça karşılanır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Toplantılara fiilen katılan asıl ve yedek üyeler dışında kalanlara ve sekretarya işlerini yapan personele ödeme yapılmayacak.",
+      "dayanak": "Kurul toplantılarına fiilen katılan asıl ve yedek üyeler dışında kalanlar ile kurulların sekretarya hizmetlerini yürüten personele ödeme yapılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Başkanlık personelinden kurullarda görev alanlara yapılacak ödemelerde ilgili mevzuattaki üst sınırlar geçilemeyecek.",
+      "dayanak": "Başkanlık personelinden, kurullarda görev alanlara yapılacak ödemelerde, bu personel için mali ve sosyal hakların düzenlendiği ilgili mevzuatında belirtilen üst sınırlar geçilemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "TÜSEB bilim kurulu üyeleri ve sekretarya personeli",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "GENELGE",
+   "baslik": "Yeşil Mutabakat Eylem Planı (2026-2030) ile İlgili 2026/12 Sayılı Cumhurbaşkanlığı Genelgesi",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "dis-ticaret-gumruk",
+     "cevre",
+     "uluslararasi"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Ticaret Bakanlığı 2026-2030 Yeşil Mutabakat Eylem Planı'nı yayımlayacak, Çalışma Grubu süreci izleyecek.",
+    "degisiklikler": [
+     {
+      "ne": "Yeni 2026-2030 Yeşil Mutabakat Eylem Planı Ticaret Bakanlığının internet sitesinde yayımlanacak.",
+      "dayanak": "\"Yeşil Mutabakat Eylem Planı (2026-2030)\" Ticaret Bakanlığının resmi internet adresinde (www.ticaret.gov.tr) yayımlanacaktır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Yeşil Mutabakat Çalışma Grubu Ticaret Bakanı veya görevlendireceği bakan yardımcısı başkanlığında çalışmaya devam edecek.",
+      "dayanak": "Yeşil Mutabakat Çalışma Grubu; Ticaret Bakanının veya görevlendireceği bakan yardımcısının başkanlığında",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kamu kurumları sorumlu oldukları eylemlerle ilgili yıllık gelişme raporlarını Ticaret Bakanlığına gönderecek.",
+      "dayanak": "ilgili kamu kurum ve kuruluşları sorumlu ve ilgili oldukları eylemlere ilişkin yıllık gelişme raporlarını Ticaret Bakanlığına gönderecekler",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eylem Planının uygulanması Çalışma Grubu tarafından izlenip değerlendirilecek.",
+      "dayanak": "Eylem Planının uygulanmasına ilişkin gelişmeler Yeşil Mutabakat Çalışma Grubu tarafından izlenecek ve değerlendirilecektir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tüm kamu kurumları üzerine düşen görevleri hassasiyetle yerine getirecek.",
+      "dayanak": "\"Yeşil Mutabakat Eylem Planı (2026-2030)\" kapsamındaki tüm kamu kurum ve kuruluşlarının üzerine düşen görev ve sorumlulukları hassasiyetle yerine getirmesi",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     }
+    ],
+    "kimi_etkiler": "Kamu kurum ve kuruluşları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 6,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 597)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-6.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "vergi"
+    ],
+    "onem": "orta",
+    "tek_cumle": "5 milyon TL üzeri vergi borcu olanlar aralıkta vergi dairelerinde ve internette açıklanacak.",
+    "degisiklikler": [
+     {
+      "ne": "2026 açıklamaları 1-15 Aralık 2026 arasında vergi dairelerinde, 16-30 Aralık 2026 arasında internet sitesinde yapılacak.",
+      "dayanak": "1/12/2026 ile 15/12/2026 tarihleri (bu tarihler dâhil) arasında Türkiye genelindeki vergi dairelerinde, 16/12/2026 ile 30/12/2026 tarihleri (bu tarihler dâhil)",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Her vergi dairesine 5 milyon TL ve üzeri borcu veya kesinleşmiş vergi ve cezası olanlar açıklamaya alınacak.",
+      "dayanak": "5.000.000 TL ve daha fazla borcu olan veya bu tutar ve üzerinde kesinleşen",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "31 Aralık 2025 itibarıyla vadesi gelip 20 Kasım 2026 itibarıyla ödenmemiş vergi ve cezalar dikkate alınacak.",
+      "dayanak": "31/12/2025 tarihi itibarıyla vadesi geldiği halde 20/11/2026 tarihi itibarıyla ödenmemiş bulunan",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "1 Haziran 2025 ile 31 Mayıs 2026 arasında kesinleşen tarhiyatlar dikkate alınacak.",
+      "dayanak": "1/6/2025-31/5/2026 tarihleri arasında kesinleşen tarhiyatların dikkate alınması,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tahsil edilemeyen alacakların yanına Alacağın tahsil kabiliyeti bulunmamaktadır yazılacak.",
+      "dayanak": "“Alacağın tahsil kabiliyeti bulunmamaktadır.” ifadesi ile yer verilmesi,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yapılandırması devam eden alacaklar açıklama kapsamına alınmayacak.",
+      "dayanak": "yapılandırılması devam eden,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "5 milyon TL ve üzeri vergi borcu olan mükellefler",
+    "yururluk": "Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 7,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Türk Gıda Kodeksi Peynir Tebliği (No: 2026/24)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110-7.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "tarim-hayvancilik"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "Bu Tebliğ peynirlerin hijyenik üretimi, içeriği, etiketlenmesi ve satış kurallarını düzenler.",
+    "degisiklikler": [
+     {
+      "ne": "Çiğ sütten veya termizasyonlu sütten yapılan, telemesi haşlanmamış peynirler taze satılamaz, en az dört ay olgunlaştırılır.",
+      "dayanak": "Çiğ sütten veya termizasyon işlemi uygulanan sütlerden üretilen ve telemesi haşlanmamış peynirler, taze olarak piyasaya arz edilemez. Bu peynirler üretimden sonra en az dört ay uygun koşullarda olgunlaştırıldıktan sonra piyasaya arz edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Peynirlerde süt proteini dışı protein, nişasta, jelatin, soya, başka hayvansal yağ ve bitkisel yağ kullanılamaz.",
+      "dayanak": "Bu Tebliğ kapsamında tanımlanan ürünlerin üretiminde süt proteini dışındaki proteinler, nişasta ve nişasta bazlı ürünler, jelatin , soya ve soya ürünleri, süt yağı dışındaki hayvansal yağlar ve bitkisel yağlar gibi bileşenler kullanılmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Peynir etiketinde köy peyniri, geleneksel, doğal, çiftlik gibi ifadeler yazılamaz.",
+      "dayanak": "Peynirlerin etiketinde, “köy peyniri”, “geleneksel peynir”, “doğal peynir”, “çiftlik peyniri” gibi ibarelere/nitelemelere yer verilmez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Teleme ve peynirler saklama, taşıma ve satış sürecinde 10 derecenin altında tutulmak zorundadır.",
+      "dayanak": "muhafaza edilmesi, taşınması ve piyasaya arz edilmesi sürecinde 10 ° C’nin altındaki sıcaklıklarda tutulması zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Çeşnili peynirlerde toplam çeşni oranı en fazla yüzde 6 olabilir.",
+      "dayanak": "Çeşnili peynirlerde toplam çeşni oranı en fazla %6 olmak zorundadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Daha önce faaliyet gösteren işletmeler 30 Nisan 2027 tarihine kadar yeni kurallara uymak zorundadır.",
+      "dayanak": "Bu Tebliğin yayımı tarihinden önce faaliyet gösteren gıda işletmecileri, 30/4/2027 tarihine kadar bu Tebliğ hükümlerine uymak zorundadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Peynir üretenler, satanlar ve peynir tüketiciler",
+    "yururluk": "Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
