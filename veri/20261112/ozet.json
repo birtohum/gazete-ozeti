@@ -1,0 +1,243 @@
+{
+ "tarih": "20261112",
+ "sayi": "33428",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Afetler Sonrası Bina Hasar Tespiti Yapılmasına İlişkin Genel Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "diger"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Afet sonrası hasarlı binalarla ilgili gözetim ifadeleri ve ekler değiştirildi.",
+    "degisiklikler": [
+     {
+      "ne": "15. maddenin ikinci fıkrasındaki “tahliye, yerleştirme ve planlama grubu gözetiminde” ibaresi “güvenlik ve trafik grubu gözetiminde eşya sahiplerince” oldu.",
+      "dayanak": "“tahliye, yerleştirme ve planlama grubu gözetiminde” ibaresi “güvenlik ve trafik grubu gözetiminde eşya sahiplerince” şeklinde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "21. maddenin birinci fıkrasındaki “tahliye yerleştirme ve planlama grubu gözetiminde” ibaresi “güvenlik ve trafik grubu gözetiminde eşya sahiplerince” oldu.",
+      "dayanak": "“tahliye yerleştirme ve planlama grubu gözetiminde” ibaresi “güvenlik ve trafik grubu gözetiminde eşya sahiplerince” şeklinde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetmeliğin EK-1 ve EK-2'si ekteki şekilde değiştirildi.",
+      "dayanak": "Aynı Yönetmeliğin EK-1 ve EK-2’si ekteki şekilde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Eşya sahipleri ile güvenlik ve trafik grubu",
+    "yururluk": "Bu Yönetmelik 22/12/2026 tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik 22/12/2026 tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bütünleşik Sigortalar Hakkında Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "finans-banka",
+     "ticaret-sirket"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Mal veya hizmet satılırken sunulan küçük çaplı sigortaların kapsamı, satışı ve iptali kurallara bağlandı.",
+    "degisiklikler": [
+     {
+      "ne": "Bütünleşik sigorta, mal veya hizmetin satıldığı ya da kiralandığı aynı fiziki veya internet ortamında, o mal, hizmet veya finansmanıyla doğrudan bağlantılı riskleri kapsayan sigortadır.",
+      "dayanak": "Bütünleşik sigorta: Mal satışı veya kiralanması ile hizmet satışının yapıldığı fiziki veya elektronik ortamda söz konusu",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu kapsamda malın kırılması, kaybolması, çalınması gibi riskler ile seyahat ve benzeri hizmetlerin kullanılamaması gibi risklere teminat verilebilir.",
+      "dayanak": "Malın kırılması, kaybı, çalınması, yanması, arızalanması, herhangi bir şekilde zarar görmesi ve benzeri risklere ilişkin teminatlar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Zorunlu sigortalar, konut ve işyeri sigortaları gibi sayılan sigortalar bu yolla sunulamaz.",
+      "dayanak": "Kanunun 13 üncü maddesi kapsamında veya ilgili diğer kanunlar ile ihdas edilen zorunlu sigortalar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu sigorta için bir yılda alınacak prim, ilgili yılın ilk altı ayında geçerli aylık brüt asgari ücreti geçemez.",
+      "dayanak": "Sigortaya ilişkin yıllık brüt prim tutarı, teminat başlangıç tarihi itibarıyla ilgili takvim yılının ilk altı ayında geçerli aylık brüt asgari ücret tutarını geçemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Sigorta almak, mal veya hizmeti almak için zorunlu şart yapılamaz.",
+      "dayanak": "Sigortanın satın alınması, mal veya hizmetin satın alınması veya kiralanmasının şartı haline getirilemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Satılan mal veya hizmet sözleşmesinden cayılınca sigorta da tazminat veya ceza ödemeden kendiliğinden biter.",
+      "dayanak": "ilgili sigorta sözleşmesi herhangi bir tazminat veya cezai şart ödeme yükümlülüğü olmaksızın kendiliğinden sona erer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Sigorta şirketleri, bankalar, aracılar, satış ortamı sağlayanlar ve bu sigortayı alan tüketiciler.",
+    "yururluk": "yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetler ve Mesafeli Akdedilen Sigorta Sözleşmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "finans-banka"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Sigortacılık yönetmeliğinin amaç ve kapsam maddeleri yenilendi, bölüm başlığı değişti ve 10. madde kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "1 inci maddenin amaç hükmü değiştirildi, yeni hali yönetmeliğin amacını sigortacılık faaliyeti sınırlarının tespiti ve belirtilen sigorta sözleşmelerine ilişkin usul ve esasların belirlenmesi olarak yazdı.",
+      "dayanak": "Bu Yönetmeliğin amacı; sigortacılık faaliyeti ile bu kapsama girmeyen işlerin sınırlarının tespiti",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2 nci maddenin kapsam hükmü değiştirildi, yeni hali yönetmeliğin sigorta şirketleri, reasürans şirketleri, sigorta teminatı veren emeklilik şirketleri, sigorta aracıları ve belirtilen banka ve kurumları kapsadığını yazdı.",
+      "dayanak": "Bu Yönetmelik; sigorta şirketlerini, reasürans şirketlerini, sigorta teminatı veren emeklilik",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Üçüncü bölümün başlığı Mesafeli Akdedilen Sigorta Sözleşmeleri olarak değiştirildi.",
+      "dayanak": "Aynı Yönetmeliğin üçüncü bölümünün başlığı “Mesafeli Akdedilen Sigorta Sözleşmeleri” şeklinde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "9 uncu maddenin dördüncü fıkrasındaki eski ibare “10 uncu maddede” yerine yeni ibare “12/11/2026 tarihli ve 33428 sayılı Resmî Gazete’de yayımlanan Bütünleşik Sigortalar Hakkında Yönetmelik kapsamında” yazıldı.",
+      "dayanak": "“10 uncu maddede” ibaresi “ 12/11/2026 tarihli ve 33428 sayılı Resmî Gazete’de yayımlanan Bütünleşik Sigortalar Hakkında Yönetmelik kapsamında”",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "10 uncu madde yürürlükten kaldırıldı.",
+      "dayanak": "Aynı Yönetmeliğin 10 uncu maddesi yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "sigorta şirketleri, reasürans şirketleri, sigorta aracıları, ilgili bankalar ve kurumlar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Devlet Su İşleri Genel Müdürlüğü Personeli Görevde Yükselme ve Ünvan Değişikliği Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "kamu-personeli"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "DSİ personelinin görevde yükselme ve ünvan değişikliği usul ve esasları yeniden belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Bu kurallar DSİ merkez ve taşra teşkilatında 657 sayılı Kanuna tabi olup yükselme veya ünvan değişikliğiyle atanacak personeli kapsar.",
+      "dayanak": "Bu Yönetmelik, Devlet Su İşleri Genel Müdürlüğü merkez ve taşra teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan personelden görevde yükselme ve ünvan değişikliği suretiyle atanacakları kapsar.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Görevde yükselmeye tabi kadrolar ve hizmet grupları belirlendi.",
+      "dayanak": "Bu Yönetmelik kapsamında görevde yükselmeye tabi kadrolar ve hizmet grupları aşağıda belirtilmiştir:",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ünvan değişikliğine tabi kadrolar belirlendi.",
+      "dayanak": "Bu Yönetmelik kapsamında ünvan değişikliğine tabi kadrolar aşağıda belirtilmiştir:",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yazılı sınavlar 100 üzerinden değerlendirilir, en az 60 alan başarılı sayılır.",
+      "dayanak": "Görevde yükselme ve ünvan değişikliği yazılı sınavları, yüz tam puan üzerinden değerlendirilir ve yazılı sınavlarda en az altmış puan alanlar başarılı sayılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Sözlü sınavda 100 üzerinden en az 70 alan başarılı sayılır.",
+      "dayanak": "Sözlü sınavda yüz üzerinden en az yetmiş puan alanlar başarılı sayılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2014 tarihli eski DSİ yükselme yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "19/2/2014 tarihli ve 28918 sayılı Resmî Gazete’de yayımlanan Devlet Su İşleri Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "DSİ merkez ve taşra teşkilatında 657'ye tabi personel",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
