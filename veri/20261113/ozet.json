@@ -1,0 +1,178 @@
+{
+ "tarih": "20261113",
+ "sayi": "33429",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "saglik-ilac"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Diyaliz merkezlerinin açılması, çalışması, personel ve cihaz kuralları ile hasta takibi düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Bu yönetmelik, böbrek yetmezliği olanlara diyaliz uygulayan merkez ve ünitelerin açılma ve denetim kurallarını belirliyor.",
+      "dayanak": "Bu Yönetmeliğin amacı; akut ve kronik böbrek yetmezliği bulunan hastalarda ve gerekli diğer tıbbi durumlarda diyaliz",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Üniversite, kamu ve özel herkesin açtığı diyaliz merkez, ünite ve çalışanları kapsanıyor.",
+      "dayanak": "Bu Yönetmelik; üniversiteler, kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzel kişileri tarafından",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzinli merkezler hastanın isteği ve yazılı onayıyla evde diyaliz yapabilir; her hastaya bir cihaz verilir.",
+      "dayanak": "Müdürlük tarafından ev hemodiyalizi uygulama izni verilen merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak kaydıyla hastanın evinde diyaliz uygulamasını yapabilir. Bu uygulama için her hastaya bir cihaz tahsis edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Diyaliz tedavi salonları bodrum katta olamaz.",
+      "dayanak": "Merkezler ve ünitelerde diyaliz tedavi salonları bodrum katında bulunamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yeni açılacak merkez en az 15, en çok 25 cihazla başlar.",
+      "dayanak": "Yeni açılacak merkezin cihaz sayısı başlangıçta, on beşten az, yirmi beşten fazla olamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İlk 10 cihaza kadar iki, sonraki her 5 cihaz için bir ek sağlık personeli gerekir.",
+      "dayanak": "İlk on cihaza kadar iki, bu sayının üzerinde ilave her beş cihaz için ilave bir tabip dışı sağlık personeli bulunur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Diyaliz hastaları, diyaliz merkezleri ve çalışanları",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": true
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Gaziantep Üniversitesi BİLAMER Yönetmeliği kaldırıldı, bu kaldırma yayım günü başladı.",
+    "degisiklikler": [
+     {
+      "ne": "1996 tarihli BİLAMER Yönetmeliği tamamen yürürlükten kaldırıldı.",
+      "dayanak": "17/4/1996 tarihli ve 22614 sayılı Resmî Gazete’de yayımlanan Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kaldırma işlemi yayımı tarihinde yürürlüğe girer.",
+      "dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu Yönetmeliği Gaziantep Üniversitesi Rektörü yürütür.",
+      "dayanak": "Bu Yönetmelik hükümlerini Gaziantep Üniversitesi Rektörü yürütür.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Gaziantep Üniversitesi ve BİLAMER ile ilgili kişiler",
+    "yururluk": "yayımı tarihinde yürürlüğe girer",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Merkezi'nin yönetmeliği kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Üniversitenin Din, Tarih ve Medeniyetler Merkezi Yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Gaziantep Üniversitesi",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "1/12/2014 tarihli ve 29192 sayılı Resmî Gazete’de yayımlanan Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Gaziantep Üniversitesi",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
