@@ -1,0 +1,204 @@
+{
+ "tarih": "20261119",
+ "sayi": "33435",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "ulastirma"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Pilot lisansı başvuru şartları yeniden düzenlendi, sağlık, adli sicil ve eğitim koşulları belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Pilot lisansı için lisans türüne uygun geçerli sağlık sertifikası gerekir.",
+      "dayanak": "Lisansın türüne uygun olarak geçerli sağlık sertifikası sahibi olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kasten işlenen suçtan 2 yıl veya daha fazla hapis cezası almamış olmak gerekir.",
+      "dayanak": "kasten işlenen bir suçtan dolayı iki yıl veya daha fazla süreyle hapis cezası ile hüküm giymemiş olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Affa uğramış olsa bile metinde sayılan suçlardan hüküm giymemiş olmak gerekir.",
+      "dayanak": "Devletin güvenliğine karşı suçlardan, Anayasal düzene ve bu düzenin işleyişine karşı suçlardan",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Terör örgütleri veya MGK kararıyla belirlenen yapılara üyelik ve bağlantı nedeniyle kamu görevinden çıkarılmamış olmak gerekir.",
+      "dayanak": "Terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunulduğuna karar verilen yapı, oluşum veya gruplara",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ticari taşımacılık, aletli uçuş yetkisi veya uçuş öğretmenliği isteyen pilotlar için en az lise mezuniyeti gerekir.",
+      "dayanak": "Ticari hava taşımacılığında bulunmak isteyen, aletli uçuş yetkisi veya uçuş öğretmenliği yetkisi sahibi olmak isteyen pilotlar için en az lise veya dengi okul mezunu olmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Şartları sonradan kaybedenlerin veya başvuruda gerçeğe aykırı belge verenlerin lisansı iptal edilir.",
+      "dayanak": "lisans tanzimi sırasında gerçeğe aykırı belge sunduğu tespit edilenlerin pilot lisansları iptal edilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Pilot lisansı başvurusu yapacak kişiler ve lisanslı pilotlar.",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Alanya Alaaddin Keykubat Üniversitesinde Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi kuruldu.",
+    "degisiklikler": [
+     {
+      "ne": "Bu yönetmelik merkezin amaç, faaliyet ve yönetim kurallarını düzenliyor.",
+      "dayanak": "Bu Yönetmeliğin amacı; Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez, üniversite ve sanayi ile iş birliği içinde yapay zeka çalışmaları için ortam oluşturacak.",
+      "dayanak": "yapay zeka ve veri bilimi araştırmaları ile ilgili olarak, Üniversite dahilindeki farklı fakülte ve birimler ile ulusal ve uluslararası endüstri kuruluşları,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez, yapay zeka içeren derslerin yürütülmesine katkı sağlayacak.",
+      "dayanak": "Üniversitede ön lisans, lisans ve lisansüstü öğrenim programlarında yer alan yapay zeka konularını içeren derslerin yürütülmesine katkı sağlamak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez, öğrencilere yapay zeka alanında kariyer danışmanlığı sunacak.",
+      "dayanak": "Öğrencilere yapay zeka alanına yönelik mesleki rehberlik ve kariyer danışmanlığı hizmeti sunmak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, Rektör tarafından öğretim üyeleri arasından üç yıl için görevlendirilecek.",
+      "dayanak": "Müdür; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversitede görevli öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Danışma Kurulunun kararları tavsiye niteliğinde olacak.",
+      "dayanak": "Danışma Kurulunun aldığı kararlar tavsiye niteliğindedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Alanya Alaaddin Keykubat Üniversitesi öğrencileri, öğretim elemanları ve iş birliği yapılan kurumlar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Bursa Uludağ Üniversitesi önlisans ve lisans eğitiminde sınav, devam ve muafiyet kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "Azami süresini dolduran son sınıf öğrencilerine başarısız oldukları teorik ve uygulamalı dersler için iki ek sınav hakkı verildi.",
+      "dayanak": "bütün dersler için iki ek sınav/tekrar hakkı verilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Uygulamalı veya intörn eğitimini tamamlamayanlara tamamlama imkânı tanındı, ara sınıf öğrencilerine ek sınav hakkı verilmez.",
+      "dayanak": "Azami öğrenim süresini dolduran ara sınıf öğrencilerine ek sınav hakkı verilmez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Önceden ve öğrenim sırasında kazanılan yeterlikler ile mikro yeterliklerin tanınması Senato yönergesine bırakıldı.",
+      "dayanak": "Öğrencilerin önceden veya öğrenimleri sırasında kazanılmış mikro yeterliklerinin tanınması",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Yoklamalar dersi veren öğretim elemanları tarafından Akıllı Yoklama Sistemi ile QR kod oluşturularak alınacak.",
+      "dayanak": "Yoklamalar dersleri veren öğretim elemanları tarafından “Akıllı Yoklama Sistemi” üzerinden QR kod oluşturularak alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Devam şartını bir kez sağlayanlarda ders tekrarında devam aranmaz; sayılan tıp, sağlık ve konservatuvar programları hariç.",
+      "dayanak": "Bir kez devam şartı sağlanmış olan salt teorik ve salt uygulamalı dersler ile derse bağlı uygulama ve laboratuvar derslerinin tekrar alınması durumunda devam zorunluluğu aranmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Öğrenci disiplin iş ve işlemleri 2547 sayılı Kanunun 54 üncü maddesine göre yürütülecek.",
+      "dayanak": "Öğrenci disiplin iş ve işlemleri 2547 sayılı Kanunun 54 üncü maddesi hükümlerine göre yürütülür.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Bursa Uludağ Üniversitesi önlisans ve lisans öğrencileri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
