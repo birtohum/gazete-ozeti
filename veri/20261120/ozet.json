@@ -1,0 +1,251 @@
+{
+ "tarih": "20261120",
+ "sayi": "33436",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİK",
+   "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Boşalan belediye başkanı ve başkan vekilliği seçiminin adaylık ve gizli oyla yapılma usulü düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Adaylık başvurusu ilk oturumda divana bildirilir, ilk oturumdan sonra başvuru yapılamaz.",
+      "dayanak": "İlk oturumdan sonra adaylık başvurusu yapılamaz ancak adaylıktan çekilme her oylama oturumu öncesinde yapılabilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Seçim gizli oyla, alfabetik sıralı birleşik oy pusulasıyla yapılır.",
+      "dayanak": "gizli oyla, üzerinde oylanacak kişilerin adlarının ve soyadlarının alfabetik sırayla basılı olduğu birleşik oy pusulasında",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "En az iki kapalı oy verme kabini hazırlanır, oy sandığı herkesin görebileceği yere konulur.",
+      "dayanak": "en az iki kapalı oy verme kabini hazırlatır. Oy sandığı, mecliste herkesin rahatça görebileceği bir alana konulur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Mühürsüz, işaretli ve birden fazla kişiye mühür basılan pusulalar geçersiz sayılır.",
+      "dayanak": "Başkanlık mührü bulunmayan veya üzerine tanıtıcı işaret konulan oy pusulaları ile birden fazla kişiye tercih mührü basılmış oy pusulaları geçersiz sayılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Sandıktan üye sayısından fazla mühürlü zarf çıkarsa o turun seçimi yenilenir.",
+      "dayanak": "Sandıktan, oy kullanan üye sayısından fazla mühürlü zarf çıkması durumunda hiçbir zarf açılmadan ilgili turun seçimi yenilenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Belediye meclis üyeleri, siyasi parti grupları ve başkanlık divanı",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "KURUL KARARLARI",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15055 Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-2.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 5,
+    "okunan": 5
+   },
+   "ozet": {
+    "konular": [
+     "enerji"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "EPDK, Akpet'in Samsun terminali için LPG depolama tarifesini değiştirerek onayladı.",
+    "degisiklikler": [
+     {
+      "ne": "Akpet'in Samsun terminali LPG depolama tarifesi değiştirilerek onaylandı.",
+      "dayanak": "LPG depolama tarifesinin ekte belirtildiği şekilde tadil edilerek\nonaylanmasına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Günlük depolama bedeli ton başına 20 TL oldu.",
+      "dayanak": "LPG Karışım | Ton | 20 TL",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Teslim alma ve teslim etme bedeli ton başına 200 TL oldu.",
+      "dayanak": "LPG Karışım | Ton | 200 TL | 200 TL",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Fiyatlara KDV dahil değildir ve indirim uygulanmayacaktır.",
+      "dayanak": "**Fiyatlara KDV dahil değildir.\n*** İndirim uygulanmayacaktır",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "1500 tondan ve 90 günden az depolama talepleri kabul edilmez.",
+      "dayanak": "1500 ton ve 90 günden az ise kabul edilmez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ödeme, faturanın ait olduğu günü izleyen 10 iş günü içinde yapılır.",
+      "dayanak": "olduğu günü takip eden 10 (on) iş günü içinde",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Akpet Samsun Terminali'nden LPG depolama hizmeti alanlar",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "KURUL KARARLARI",
+   "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15056 Sayılı Kararı",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 1,
+    "okunan": 1
+   },
+   "ozet": {
+    "konular": [
+     "enerji"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Akaryakıt fiyat takibine ilişkin Kurul Kararının 1 inci maddesi değiştirildi.",
+    "degisiklikler": [
+     {
+      "ne": "Akaryakıt satış fiyatının takibinde Platts European Market Scan’de CIF MED başlığı altında yayımlanan günlük fiyatların ortalaması kullanılır.",
+      "dayanak": "Platts European Market Scan’de CIF MED (Genova/Lavera) başlığı altında ABD Doları/ton cinsinden yayımlanan günlük fiyatların ortalamasının",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu ortalama, TCMB döviz satış kuru üzerinden TL’ye çevrilmiş tutar olarak dikkate alınır.",
+      "dayanak": "Türkiye Cumhuriyeti Merkez Bankası (TCMB) tarafından açıklanan döviz satış kuru üzerinden TL’ye çevrilmiş olan tutarı (TL/ton) dikkate alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "TL/lt hesabında yoğunluk değeri motorin için 0,845 ton/m3 ve benzin için 0,755 ton/m3 alınır.",
+      "dayanak": "yoğunluk değeri motorin için 0,845 ton/m3 ve benzin için 0,755 ton/m3 olarak dikkate alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ürün fiyatında uluslararası fiyatın TL değerine ek olarak ülke içi pazara sunum maliyetleri dikkate alınır.",
+      "dayanak": "Rafinerici lisansı sahipleri tarafından belirlenecek ürün fiyatında ürünün uluslararası piyasadaki fiyatının TL cinsinden değerine ilaveten ülke içi pazara sunumu kapsamında katlanılan maliyetler de dikkate alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Rafinerici lisansı sahipleri",
+    "yururluk": "Bu Karar yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Karar yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "KURUL KARARLARI",
+   "baslik": "Nükleer Düzenleme Kurulunun 17/11/2026 Tarihli ve 2026-49/1-1, 1-2, 1-3, 1-4, 1-5 ve 1-6 Sayılı Kararları",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-4.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 68,
+    "okunan": 20
+   },
+   "ozet": {
+    "konular": [
+     "enerji"
+    ],
+    "onem": "orta",
+    "tek_cumle": "NDK nükleer tesislerde kaynak ve penetrant muayenesi kurallarını belirledi, altı ay uyum süresi verdi.",
+    "degisiklikler": [
+     {
+      "ne": "Nükleer tesislerde kaynak işlemleri için uyulması zorunlu gerekler belirlendi.",
+      "dayanak": "“Nükleer Tesisler İçin Kaynak Uygulamalarına İlişkin Gerekler”in Ek’teki şekilde belirlenmesine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kaynak işi yapacaklara kararın yayımından sonra altı ay içinde uyum zorunluluğu getirildi.",
+      "dayanak": "kaynak uygulamalarını yapacak kişiler tarafından Kararın yayımından itibaren altı ay içerisinde bu Karara uyum sağlanmasına karar verilmiştir",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Nükleer tesislerde penetrant muayenesi için uyulması zorunlu gerekler belirlendi.",
+      "dayanak": "“Nükleer Tesisler İçin Penetrant Muayenesine İlişkin Gerekler”in Ek’teki şekilde belirlenmesine",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Penetrant muayenesi yapacaklara kararın yayımından sonra altı ay içinde uyum zorunluluğu getirildi.",
+      "dayanak": "penetrant muayenesi uygulamalarını yapacak kişiler tarafından Kararın yayımından itibaren altı ay içerisinde bu Karara uyum sağlanmasına karar verilmiştir",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Onaylı kaynak prosedür şartnamesi olmadan hiçbir kaynak işlemi veya kaynaklı onarım yapılamaz.",
+      "dayanak": "Kaynak yöntem vasıflandırma kaydı esas alınarak hazırlanmış bir kaynak prosedür şartnamesi bulunmaksızın hiçbir kaynak işlemi veya kaynaklı onarım yapılamaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kaynak işlerinde geçerli mesleki yeterlilik belgesi olan personel çalıştırılması zorunlu tutuldu.",
+      "dayanak": "Kaynak işlemlerinde, geçerli kaynakçı veya kaynak operatörü mesleki yeterlilik belgesine sahip personel görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Nükleer tesis kuran, işleten kuruluşlar ile kaynak ve muayene işi yapan personel",
+    "yururluk": "Kararın yayımından itibaren altı ay içerisinde bu Karara uyum sağlanmasına karar verilmiştir.",
+    "yururluk_dayanak": "Kararın yayımından itibaren altı ay içerisinde bu Karara uyum sağlanmasına karar verilmiştir.",
+    "eksik_okuma": true,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
