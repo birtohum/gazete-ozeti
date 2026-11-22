@@ -1,0 +1,104 @@
+{
+ "tarih": "20261122",
+ "sayi": "33438",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim",
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi'nde müdür yardımcısı sayısı ikiden dörde çıkarıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Merkezde görevlendirilebilecek müdür yardımcısı sayısı en çok 2 kişiden en çok 4 kişiye çıkarıldı.",
+      "dayanak": "“en çok iki kişi müdür yardımcısı olarak görevlendirilir” ibaresi “en çok dört kişi müdür yardımcısı olarak görevlendirilir” şeklinde değiştirilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Hatay Mustafa Kemal Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Hatay Mustafa Kemal Üniversitesi ön lisans ve lisans eğitim, sınav ve mezuniyet kurallarını düzenliyor.",
+    "degisiklikler": [
+     {
+      "ne": "Meslek yüksekokulu 2 yıl, fakülte/yüksekokul/konservatuvar 4 yıl, veteriner ve diş hekimliği 5 yıl, tıp 6 yıl sürer.",
+      "dayanak": "Üniversiteye bağlı meslek yüksekokullarında öğrenim süresi iki yıl; fakülteler, yüksekokullar ve devlet konservatuvarında dört yıl",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Azami sürede mezun olamayan son sınıf öğrencisine başarısız olduğu bütün dersler için iki ek sınav hakkı verilir.",
+      "dayanak": "mezun olamayan son sınıf öğrencilerine, başarısız oldukları bütün dersler için iki ek sınav hakkı verilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Final veya bütünleme notu 30'un altında ise ders notu doğrudan FF olur.",
+      "dayanak": "Ancak, final veya bütünleme notunun otuzun altında olması durumunda başarı notu FF olarak verilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Teorik derslere en az %70, uygulamalara en az %80 devam etmek zorunludur.",
+      "dayanak": "Öğrencilerin teorik derslere en az %70, uygulamalara en az %80 oranında devamı zorunludur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yıl sonu genel not ortalaması 1,85'in altında olan öğrenci sınıf tekrarına kalır.",
+      "dayanak": "Akademik yıl bitiminde hesaplanan GNO’su 1,85’in altında olan öğrenciler sınıf tekrarına kalır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tüm dersleri bitirip genel ortalaması 2,00 ve üzeri olan öğrenci diploma almaya hak kazanır.",
+      "dayanak": "genel akademik başarı not ortalaması 2,00 veya daha yüksek olan öğrenciler diploma almaya hak kazanır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Hatay Mustafa Kemal Üniversitesi ön lisans ve lisans öğrencileri",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
