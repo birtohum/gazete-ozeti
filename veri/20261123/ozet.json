@@ -1,0 +1,125 @@
+{
+ "tarih": "20261123",
+ "sayi": "33439",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Biruni Üniversitesi Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim",
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Biruni Üniversitesi'nde rektör önerme ve atama maddeleri değiştirildi, yönetmelik yayım günü yürürlüğe girdi.",
+    "degisiklikler": [
+     {
+      "ne": "6 ncı maddenin (ç) bendi değiştirildi, yeni haliyle ilgili mevzuata göre atanmak üzere rektör önerisinde bulunulacağı yazıldı.",
+      "dayanak": "ç) İlgili mevzuat hükümleri çerçevesinde atanmak üzere Rektör önerisinde bulunmak,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "10 uncu maddenin birinci fıkrasının ilk cümlesi değiştirildi, yeni haliyle rektörün ilgili mevzuata göre Cumhurbaşkanı tarafından atanacağı yazıldı.",
+      "dayanak": "Rektör, ilgili mevzuat hükümlerine göre Cumhurbaşkanı tarafından atanır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetmelik hükümlerini Biruni Üniversitesi Mütevelli Heyet Başkanı yürütür.",
+      "dayanak": "Bu Yönetmelik hükümlerini Biruni Üniversitesi Mütevelli Heyet Başkanı yürütür.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Biruni Üniversitesi yönetimi ve rektör atama süreci",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Biruni Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Biruni Üniversitesi lisansüstü kayıt, başvuru, tez ve doktora koşullarını güncelledi.",
+    "degisiklikler": [
+     {
+      "ne": "Tezi reddedilen öğrenci isterse, tezsiz yüksek lisans ders ve diğer gereklerini sağlamışsa tezsiz diploma alır; sağlamamışsa tamamlaması için bir yarıyıl ek süre verilir.",
+      "dayanak": "Tezi reddedilen öğrencinin talepte bulunması hâlinde, tezsiz yüksek lisans programı için mevzuatta öngörülen ders/kredi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Tezli yüksek lisans öğrencisinin savunmaya başvurabilmesi için tezinden üretilmiş veya konusuyla ilişkili en az bir koşulu sağlaması gerekir.",
+      "dayanak": "(10) Tezli yüksek lisans öğrencisinin tez savunma sınavına başvurabilmesi için, tezinden üretilmiş veya tez konusuyla doğrudan ilişkili olmak üzere aşağıdaki koşullardan en az birini sağlaması gerekir:",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doktora öğrencisinin savunmaya girebilmesi için birinci isim ve Biruni adresli Q1, Q2 veya Q3 makale ya da onaylı ve tescilli patent şarttır.",
+      "dayanak": "birinci isim olduğu ve Biruni Üniversitesi adresli bir makalesinin Q1, Q2 veya Q3 sıralamasındaki dergilerde yayımlanmış ya da yayımlanmak üzere kabul edilmiş olması",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Doktora başvurusunda, son beş yıl içinde alınmış ve 55 puandan az olmayan Senato tarafından belirlenen ALES puanı aranır.",
+      "dayanak": "ALES’ten başvurdukları programın puan türünde, son beş yıl içinde alınmış ve 55 puandan az olmamak üzere Senato tarafından belirlenen puana",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kayıt dondurma süresi bitmeden dönmek isteyen öğrenci enstitü müdürlüğüne dilekçeyle başvurmalıdır.",
+      "dayanak": "(8) Kayıt dondurma süresi sona ermeden önce Üniversiteye dönmek isteyen öğrencilerin, enstitü müdürlüğüne dilekçeyle başvuru yapmaları gerekmektedir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Lisans derecesiyle doktoraya kabul edilip en az yedi dersini tamamlayan öğrenci talebi hâlinde tezli yüksek lisansa geçebilir.",
+      "dayanak": "Lisans derecesi ile doktora programına kabul edilmiş ve en az yedi dersini başarıyla tamamlamış öğrenci, talebi hâlinde",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Biruni Üniversitesi lisansüstü öğrencileri ve doktora başvuru adayları",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
