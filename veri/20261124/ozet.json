@@ -1,0 +1,266 @@
+{
+ "tarih": "20261124",
+ "sayi": "33440",
+ "maddeler": [
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİK",
+   "baslik": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Recep Tayyip Erdoğan Üniversitesi'nde bazı ders ve sınavlar için istisna getirildi, kayıt yenilemeyen uluslararası öğrencilerin ilişiği kesilecek.",
+    "degisiklikler": [
+     {
+      "ne": "24 üncü maddenin altıncı fıkrasındaki kural; Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil dersleri ile uzaktan eğitim programları ve mazeret sınavları için uygulanmayacak.",
+      "dayanak": "Ancak Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili ve yabancı dil dersleri ile uzaktan eğitim programları ve mazeret sınavları için bu hüküm uygulanmaz.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Dört yıllık programda iki yıl üst üste, iki yıllık programda bir yıl boyunca kayıt yenilemeyen veya ücret ödemeyen uluslararası öğrencinin Üniversiteden ilişiği kesilecek.",
+      "dayanak": "(3) Dört yıllık programlarda iki yıl üst üste, iki yıllık programlarda ise bir yıl boyunca kayıt yenilemeyen veya ücret ödemeyen uluslararası öğrencinin Üniversiteden ilişiği ilgili birim yönetim kurulu kararı ile kesilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Recep Tayyip Erdoğan Üniversitesi ön lisans ve lisans öğrencileri ve uluslararası öğrenciler",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "vergi"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "e-Belgeler YN ÖKC'lere genişletildi, bilgi fişi kaldırıldı, sinema ve hekim kuralları güncellendi.",
+    "degisiklikler": [
+     {
+      "ne": "e-Arşiv'e dahil olmayan mükellefler 1/1/2027'den itibaren belirtilen mobil sistem, taksi cihazı ve izinli YN ÖKC üzerinden e-Arşiv Fatura düzenleyebilir.",
+      "dayanak": "e-Arşiv Fatura uygulamasına dahil olmayan mükelleflerin, 1/1/2027 tarihinden itibaren düzenleyecekleri faturaları",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bilgi Fişi tanımı yürürlükten kaldırıldı.",
+      "dayanak": "“Bilgi Fişi” tanımı yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski: Sinema İşletmelerinin e-Bilet ve Yeni Nesil ÖKC Kullanma Zorunluluğu; Yeni: Sinema İşletmelerinin e-Bilet Kullanma Zorunluluğu, giriş biletleri e-Bilet olarak düzenlenir.",
+      "dayanak": "IV.7.4.2. Sinema İşletmelerinin e-Bilet Kullanma Zorunluluğu",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzinli YN ÖKC ile düzenlenen e-Belgede YN ÖKC mali sertifikasıyla atılan elektronik imza iş sahibi imzasının yerine geçer.",
+      "dayanak": "YN ÖKC mali sertifikası ile yapılan elektronik imza, iş sahibinin veya namına imzaya mezun olanların imzası yerine geçer.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski: belirtilen POS cihazı bulundurma zorunluluğu; Yeni: e-Serbest Meslek Makbuzu düzenleyen YN ÖKC kullanan hekimlerin (diş ve veteriner dahil) POS bulundurmasına gerek yoktur.",
+      "dayanak": "POS cihazı bulundurmalarına ve kullanmalarına gerek bulunmamaktadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kılavuzlarda belirtilen e-Belgeler izinli YN ÖKC'lerden de düzenlenebilecek.",
+      "dayanak": "bu Tebliğ ile Vergi Usul Kanunu Genel Tebliği (Sıra No: 593)’ nde belirlenen usul ve esaslar çerçevesinde, YN ÖKC’lerden de düzenlenebilecektir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "e-Arşiv'e dahil olmayan mükellefler, YN ÖKC kullananlar, sinema işletmeleri, hekimler",
+    "yururluk": "Bu Tebliğ 1/1/2027 tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tebliğ 1/1/2027 tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 3,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "vergi"
+    ],
+    "onem": "yuksek",
+    "tek_cumle": "2026 yılı yeniden değerleme oranı yüzde 27,83 olarak belirlendi.",
+    "degisiklikler": [
+     {
+      "ne": "2026 yılı yeniden değerleme oranı %27,83 oldu.",
+      "dayanak": "Bu hüküm uyarınca yeniden değerleme oranı 2026 yılı için % 27,83 (yirmi yedi virgül seksen üç) olarak tespit edilmiştir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu oran 2026 yılının son geçici vergi döneminde de uygulanacak.",
+      "dayanak": "Bu oran, aynı zamanda 2026 yılına ait son geçici vergi dönemi için de uygulanacaktır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bu konuda daha önce yayımlanmış tebliğler yürürlükte kalmaya devam ediyor.",
+      "dayanak": "Öte yandan, bu konuda daha önce yayımlanmış olan Tebliğler de yürürlükte bulunmaktadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Vergi mükellefleri",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 4,
+   "bolum": "TEBLİĞLER",
+   "baslik": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-4.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 3
+   },
+   "ozet": {
+    "konular": [
+     "tarim-hayvancilik"
+    ],
+    "onem": "orta",
+    "tek_cumle": "Hayvancılık destek şartları güncellendi, bazı buzağılara ilave destek ve atık ile kuzu-oğlak kuralları yenilendi.",
+    "degisiklikler": [
+     {
+      "ne": "Suni tohumlama istenen desteklerde tohumlamanın buzağıda doğumdan 210-295 gün, malakta 280-334 gün önce yapılıp kaydedilmesi gerekir.",
+      "dayanak": "tohumlamanın, buzağının doğum tarihinden 210-295 gün, malak doğum tarihinden 280-334 gün öncesinde ülkemizde yapılmış ve bilgisinin E-Islah/MIS veri tabanına kaydedilmiş olması gerekir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Belirtilen yaştaki Holstein ve Holstein melezi sığırların etçi ırk sperma ile tohumlanmasından doğan şartları sağlayan buzağılara ilave destek ödenir.",
+      "dayanak": "melezi sığırların etçi ırk sperma ile tohumlanması sonucunda doğan ve temel destekleme şartlarını sağlayan buzağılara ilave destek tutarı ödenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Embriyo transferi veya cinsiyeti belirli sperma ile doğan şartları sağlayan buzağı ve malaklara ilave destek ödenir.",
+      "dayanak": "Embriyo transferi ve/veya cinsiyeti belirli sperma uygulaması sonucunda doğan ve temel destekleme şartlarını sağlayan buzağılara/malaklara ilave destek tutarı ödenir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Sığır, manda, koyun ve keçide meydana gelen her türlü atık için hayvan sahibine atık desteği ödenir.",
+      "dayanak": "Sığır, manda, koyun ve keçilerde meydana gelen her türlü atık için hayvan sahiplerine atık desteği ödemesi yapılır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Kuzu ve oğlak desteği için aynı takvim yılında doğmuş, küpeli, TÜRKVET kayıtlı ve en az 120 gün yaşamış olma şartı getirildi.",
+      "dayanak": "Desteklemeden yararlanacak kuzu ve oğlaklar; destekleme takvim yılı içerisinde doğmuş, küpelenmiş, TÜRKVET’e kayıtlı ve en az 4 ay (120 gün) süreyle yaşamış olmak zorundadır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Temel desteğe esas kuzu sayısı, yıl sonundaki toplam anaç koyun sayısının 1,5 katını geçemez.",
+      "dayanak": "temel desteğe esas kuzu sayısı, destekleme yılı son günü (31 Aralık) itibarıyla TÜRKVET kayıtlarında yer alan kişiye ait toplam anaç koyun sayısının 1,5 katını geçemez.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Sığır, manda, koyun, keçi yetiştiricileri",
+    "yururluk": "1/1/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Tebliğ 1/1/2026 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 5,
+   "bolum": "DANIŞTAY KARARI",
+   "baslik": "Danıştay Dördüncü Dairesine Ait Karar",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-5.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 9,
+    "okunan": 9
+   },
+   "ozet": {
+    "konular": [
+     "hukuk-yargi",
+     "imar-kamulastirma"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Danıştay, diğer kat maliklerine haber verilmeden verilen yıkım davası kararını kanun yararına bozdu.",
+    "degisiklikler": [
+     {
+      "ne": "Adana Bölge İdare Mahkemesi kararı için kanun yararına temyiz istemi kabul edildi.",
+      "dayanak": "1. 2577 sayılı Kanun'un 51. maddesi uyarınca Danıştay Başsavcılığı tarafından yapılan KANUN YARARINA TEMYİZ İSTEMİNİN KABULÜNE,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Bölge İdare Mahkemesi kararı bozuldu ama kesinleşmiş kararın hukuki sonuçları değişmedi.",
+      "dayanak": "20/04/2021 tarih ve E:2020/763, K:2021/697 sayılı kararın, 2577 sayılı İdari Yargılama Usulü Kanununun 51. maddesi uyarınca, hükmün hukuki sonuçlarına etkili olmamak üzere KANUN YARARINA BOZULMASINA,",
+      "alinti_benzerlik": 1.0,
+      "destek": "hayir",
+      "dogrulandi": false
+     },
+     {
+      "ne": "Binanın tümünü etkileyen yıkım davasında diğer kat maliklerine dava haber verilerek karar verilmeliydi.",
+      "dayanak": "binanın tümünü etkileyen yıkım işlemine karşı açılan davada, diğer kat maliklerine dava ihbar edilerek karar verilmesi gerekirken",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "3205 parselli binanın kat malikleri ve Reyhanlı Belediyesi",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  }
+ ]
+}
