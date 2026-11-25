@@ -1,0 +1,204 @@
+{
+ "tarih": "20261125",
+ "sayi": "33441",
+ "maddeler": [
+  {
+   "no": 3,
+   "bolum": "ATAMA KARARLARI",
+   "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/398, 399)",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-3.pdf",
+   "bilgi": {
+    "kaynak": "ocr",
+    "sayfa": 4,
+    "okunan": 4
+   },
+   "ozet": {
+    "konular": [
+     "teskilat-atama"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Birçok vali ve bazı üst yöneticilerin görev yerleri değiştirildi, Polis Akademisi başkanı değişti.",
+    "degisiklikler": [
+     {
+      "ne": "Kayseri Valisi Gökmen ÇİÇEK, Şanlıurfa Valisi oldu.",
+      "dayanak": "15 | Gökmen ÇİÇEK | Kayseri Valisi | Şanlıurfa Valisi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "İzmir Valisi Süleyman ELBAN, Mardin Valisi oldu.",
+      "dayanak": "21 | Süleyman ELBAN | İzmir Valisi | Mardin Valisi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Balıkesir Valisi İsmail USTAOĞLU, İzmir Valisi oldu.",
+      "dayanak": "22 | İsmail USTAOĞLU | Balıkesir Valisi | İzmir Valisi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Afet ve Acil Durum Yönetimi Başkanı Ali Hamza PEHLİVAN, Hatay Valisi oldu.",
+      "dayanak": "18 | Ali Hamza PEHLİVAN | Afet ve Acil Durum Yönetimi Başkanı | Hatay Valisi",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Ağrı Valisi Önder BOZKURT, Afet ve Acil Durum Yönetimi Başkanı oldu.",
+      "dayanak": "56 | Önder BOZKURT | Ağrı Valisi | Afet ve Acil Durum Yönetimi Başkanı",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Polis Akademisi Başkanı Murat BALCI görevden alındı, yerine Mehmet İlker HAKTANKAÇMAZ atandı.",
+      "dayanak": "Başkanı Prof. Dr. Murat BALCI görevden alınmış ve bu suretle boşalan Polis Akademisi Başkanlığına Doç. Dr. Mehmet İlker HAKTANKAÇMAZ atanmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Atanan valiler, AFAD, Polis Akademisi ve ilgili iller",
+    "yururluk": "",
+    "yururluk_dayanak": "",
+    "eksik_okuma": false
+   }
+  },
+  {
+   "no": 1,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Atılım Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-1.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Atılım Üniversitesi sürekli eğitim merkezinin görevleri ve yönetimi yeniden düzenlendi.",
+    "degisiklikler": [
+     {
+      "ne": "Merkez, kamu, özel sektör ve bireylere eğitim ve sertifika programları planlayacak.",
+      "dayanak": "Kamu, özel sektör ve uluslararası kuruluşlar ile bireylere ihtiyaç duydukları alanlarda eğitim, öğretim ve sertifika programları planlamak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkezin yönetim organları Müdür ve Yönetim Kurulu olarak belirlendi.",
+      "dayanak": "Merkezin yönetim organları şunlardır: a) Müdür. b) Yönetim Kurulu.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, Rektörün önerisiyle Mütevelli Heyet Başkanı tarafından 2 yıllığına görevlendirilecek.",
+      "dayanak": "Müdür, Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektörün önerisi üzerine Mütevelli Heyet Başkanı tarafından iki yıl süreyle görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu, Müdür dahil toplam 4 kişiden oluşacak.",
+      "dayanak": "Yönetim Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından Müdürün önerisi üzerine Rektör tarafından görevlendirilen üç üye olmak üzere toplam dört üyeden oluşur.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Yönetim Kurulu yılda en az iki kez toplanacak ve kararlar oy çokluğuyla alınacak.",
+      "dayanak": "Yönetim Kurulu, Müdürün daveti üzerine yılda en az iki defa salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Eski 2006 tarihli merkez yönetmeliği kaldırıldı.",
+      "dayanak": "14/6/2006 tarihli ve 26198 sayılı Resmî Gazete’de yayımlanan Atılım Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Atılım Üniversitesi ve merkezden eğitim alacaklar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  },
+  {
+   "no": 2,
+   "bolum": "YÖNETMELİKLER",
+   "baslik": "Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-2.htm",
+   "bilgi": {
+    "kaynak": "htm",
+    "resim": 0
+   },
+   "ozet": {
+    "konular": [
+     "egitim"
+    ],
+    "onem": "dusuk",
+    "tek_cumle": "Harran Üniversitesi Ortadoğu Araştırmaları Merkezi'nin çalışma alanları ve yönetimi yeniden düzenlendi, eski yönetmelik kaldırıldı.",
+    "degisiklikler": [
+     {
+      "ne": "Bu yönetmelik merkezin amaçlarını, faaliyet alanlarını ve nasıl yönetileceğini düzenliyor.",
+      "dayanak": "Bu Yönetmeliğin amacı; Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezinin amaçlarına,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez Ortadoğu, Kafkasya ve Orta Asya'yı tarih, siyaset, toplum, ekonomi ve kültür gibi yönleriyle inceleyecek.",
+      "dayanak": "Ortadoğu başta olmak üzere Kafkasya ve Orta Asya coğrafyalarının tarihsel, siyasal, toplumsal, ekonomik, kültürel, sağlık,",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkez ulusal ve uluslararası araştırma projeleri yapabilecek veya bunlara katkı verebilecek.",
+      "dayanak": "Merkezin faaliyet alanına giren konularda ulusal ve uluslararası düzeyde araştırma projeleri geliştirmek, yürütmek veya bu projelere katkı sağlamak.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Merkezin yönetimi Müdür, Yönetim Kurulu ve Danışma Kurulu'ndan oluşuyor.",
+      "dayanak": "Merkezin yönetim organları şunlardır: a) Müdür. b) Yönetim Kurulu. c) Danışma Kurulu.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "Müdür, ilgili öğretim üyeleri arasından Rektör tarafından 3 yıllığına görevlendiriliyor.",
+      "dayanak": "Müdür; Merkezin faaliyet alanlarıyla ilgili çalışmaları bulunan Üniversite öğretim üyeleri arasından üç yıl süreyle Rektör tarafından görevlendirilir.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     },
+     {
+      "ne": "2011 tarihli eski merkez yönetmeliği yürürlükten kaldırıldı.",
+      "dayanak": "26/7/2011 tarihli ve 28006 sayılı Resmî Gazete’de yayımlanan Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "alinti_benzerlik": 1.0,
+      "destek": "evet",
+      "dogrulandi": true
+     }
+    ],
+    "kimi_etkiler": "Harran Üniversitesi personeli, öğrenciler ve merkezle çalışanlar",
+    "yururluk": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "yururluk_dayanak": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+    "eksik_okuma": false,
+    "yururluk_benzerlik": 1.0
+   }
+  }
+ ]
+}
